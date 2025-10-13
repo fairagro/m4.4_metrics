@@ -29,5 +29,5 @@ s4n create -c Dockerfile -t metrics --env .env --enable-network --no-commit  pyt
 ```
 The other tools are quite easy to create_
 ```bash
-
+s4n create -c Dockerfile -t metrics python metrics/analyze.py --json raw_data.json \> analyzed_data.json 
 ```
