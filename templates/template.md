@@ -6,7 +6,9 @@ SciWIn-Client helps user creating **Computational Workflows** in CWL. Detailed I
 ## Downloads by Version
 SciWIn-Client currently has about {{downloads}} overall downloads across all versions and operating systems. The lastest version {{latest_version}} currently has {{latest_downloads}} downloads.
 
+
 ![downloads by version](release.png)
+
 
 | Version | Downloads |
 |---------|-----------|
@@ -15,7 +17,10 @@ SciWIn-Client currently has about {{downloads}} overall downloads across all ver
 
 ## Downloads by Operating System
 SciWIn-Client is used on all major operating systems. There are {{os['Linux']}} downloads of the linux executable, {{os['Windows']}} downloads of the Windows executable and {{os['MacOS']}} downloads of the Mac OS executable.
+
+
 ![downloads by platform](platform.png)
+
 
 | Platform | Downloads |
 |---------|-----------|
