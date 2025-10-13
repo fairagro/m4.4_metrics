@@ -6,7 +6,9 @@ SciWIn-Client helps user creating **Computational Workflows** in CWL. Detailed I
 ## Downloads by Version
 SciWIn-Client currently has about 174 overall downloads across all versions and operating systems. The lastest version v1.0.0 currently has 15 downloads.
 
+
 ![downloads by version](release.png)
+
 
 | Version | Downloads |
 |---------|-----------|
@@ -26,7 +28,10 @@ SciWIn-Client currently has about 174 overall downloads across all versions and 
 
 ## Downloads by Operating System
 SciWIn-Client is used on all major operating systems. There are 93 downloads of the linux executable, 33 downloads of the Windows executable and 48 downloads of the Mac OS executable.
+
+
 ![downloads by platform](platform.png)
+
 
 | Platform | Downloads |
 |---------|-----------|
