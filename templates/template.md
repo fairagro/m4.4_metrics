@@ -21,3 +21,9 @@ SciWIn-Client is used on all major operating systems. There are {{os['Linux']}} 
 |---------|-----------|
 {% for key, value in platform.items() %}| {{key}} | {{value}}|
 {% endfor %}
+
+# Creating this Workflow
+The first tool being used in the `collect` tool which was created by 
+```bash
+s4n create -c Dockerfile -t metrics --env .env --enable-network --no-commit  python metrics/collect.py \> raw_data.json
+```
