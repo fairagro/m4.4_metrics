@@ -1,0 +1,6 @@
+requests
+jmespath
+matplotlib
+SciencePlots
+anybadge
+jinja2
