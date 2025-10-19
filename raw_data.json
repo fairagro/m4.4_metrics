@@ -20,7 +20,7 @@
       },
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
-        "downloads": 5
+        "downloads": 6
       }
     ]
   },
@@ -95,7 +95,7 @@
       },
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
-        "downloads": 4
+        "downloads": 5
       }
     ]
   },
@@ -166,7 +166,7 @@
       },
       {
         "name": "s4n-x86_64-pc-windows-msvc.zip",
-        "downloads": 1
+        "downloads": 2
       },
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
