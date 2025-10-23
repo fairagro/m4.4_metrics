@@ -1,10 +1,10 @@
 # Metrics for SciWIn-Client
 ![overall downloads](badge.svg)
 
-SciWIn-Client helps user creating **Computational Workflows** in CWL. Detailed Information about SciWIn-Client can be found in the [GitHub Repository](https://github.com/fairagro/m4.4_sciwin_client). The Metrics shown below have been calculated using the GitHub API. Presentation is done via a CWL Workflow.
+SciWIn-Client helps users creating **Computational Workflows** in CWL. Detailed Information about SciWIn-Client can be found in the [GitHub Repository](https://github.com/fairagro/m4.4_sciwin_client). The Metrics shown below have been calculated using the GitHub API. Presentation is done via a CWL Workflow and the scripts in this repository.
 
 ## Downloads by Version
-SciWIn-Client currently has about 187 overall downloads across all versions and operating systems. The lastest version v1.0.0 currently has 19 downloads.
+SciWIn-Client currently has about 188 overall downloads across all versions and operating systems. The lastest version v1.0.0 currently has 19 downloads.
 
 
 ![downloads by version](release.png)
@@ -19,7 +19,7 @@ SciWIn-Client currently has about 187 overall downloads across all versions and 
 | v0.6.0 | 4|
 | v0.5.2 | 14|
 | v0.5.1 | 8|
-| v0.5.0 | 7|
+| v0.5.0 | 8|
 | v0.4.0 | 9|
 | v0.3.0 | 18|
 | v0.2.0 | 6|
@@ -27,7 +27,7 @@ SciWIn-Client currently has about 187 overall downloads across all versions and 
 
 
 ## Downloads by Operating System
-SciWIn-Client is used on all major operating systems. There are 103 downloads of the linux executable, 36 downloads of the Windows executable and 48 downloads of the Mac OS executable.
+SciWIn-Client is used on all major operating systems. There are 103 downloads of the Linux executable, 37 downloads of the Windows executable and 48 downloads of the Mac OS executable.
 
 
 ![downloads by platform](platform.png)
@@ -38,7 +38,7 @@ SciWIn-Client is used on all major operating systems. There are 103 downloads of
 | MacOS (ARM) | 29|
 | Linux (ARM) | 22|
 | MacOS (x64) | 19|
-| Windows (x64) | 36|
+| Windows (x64) | 37|
 | Linux (x64) | 81|
 
 
