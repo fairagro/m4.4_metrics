@@ -4,7 +4,7 @@
 SciWIn-Client helps users creating **Computational Workflows** in CWL. Detailed Information about SciWIn-Client can be found in the [GitHub Repository](https://github.com/fairagro/m4.4_sciwin_client). The Metrics shown below have been calculated using the GitHub API. Presentation is done via a CWL Workflow and the scripts in this repository.
 
 ## Downloads by Version
-SciWIn-Client currently has about 190 overall downloads across all versions and operating systems. The lastest version v1.0.0 currently has 19 downloads.
+SciWIn-Client currently has about 193 overall downloads across all versions and operating systems. The lastest version v1.0.0 currently has 19 downloads.
 
 
 ![downloads by version](release.png)
@@ -17,8 +17,8 @@ SciWIn-Client currently has about 190 overall downloads across all versions and 
 | v0.7.0 | 15|
 | v0.6.1 | 13|
 | v0.6.0 | 4|
-| v0.5.2 | 14|
-| v0.5.1 | 8|
+| v0.5.2 | 16|
+| v0.5.1 | 9|
 | v0.5.0 | 8|
 | v0.4.0 | 10|
 | v0.3.0 | 18|
@@ -27,7 +27,7 @@ SciWIn-Client currently has about 190 overall downloads across all versions and 
 
 
 ## Downloads by Operating System
-SciWIn-Client is used on all major operating systems. There are 104 downloads of the Linux executable, 38 downloads of the Windows executable and 48 downloads of the Mac OS executable.
+SciWIn-Client is used on all major operating systems. There are 106 downloads of the Linux executable, 38 downloads of the Windows executable and 49 downloads of the Mac OS executable.
 
 
 ![downloads by platform](platform.png)
@@ -36,8 +36,8 @@ SciWIn-Client is used on all major operating systems. There are 104 downloads of
 | Platform | Downloads |
 |---------|-----------|
 | MacOS (ARM) | 29|
-| Linux (ARM) | 23|
-| MacOS (x64) | 19|
+| Linux (ARM) | 25|
+| MacOS (x64) | 20|
 | Windows (x64) | 38|
 | Linux (x64) | 81|
 
