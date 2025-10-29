@@ -66,7 +66,7 @@
       },
       {
         "name": "s4n-x86_64-pc-windows-msvc.zip",
-        "downloads": 3
+        "downloads": 4
       },
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
@@ -79,7 +79,7 @@
     "assets": [
       {
         "name": "s4n-aarch64-apple-darwin.tar.xz",
-        "downloads": 3
+        "downloads": 4
       },
       {
         "name": "s4n-aarch64-unknown-linux-gnu.tar.xz",
@@ -179,7 +179,7 @@
     "assets": [
       {
         "name": "s4n-aarch64-apple-darwin.tar.xz",
-        "downloads": 1
+        "downloads": 2
       },
       {
         "name": "s4n-aarch64-unknown-linux-gnu.tar.xz",
