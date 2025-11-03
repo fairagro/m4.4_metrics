@@ -4,7 +4,7 @@
     "assets": [
       {
         "name": "s4n-aarch64-apple-darwin.tar.xz",
-        "downloads": 3
+        "downloads": 4
       },
       {
         "name": "s4n-aarch64-unknown-linux-gnu.tar.xz",
@@ -233,7 +233,7 @@
       },
       {
         "name": "s4n-aarch64-unknown-linux-gnu.tar.xz",
-        "downloads": 2
+        "downloads": 3
       },
       {
         "name": "s4n-x86_64-apple-darwin.tar.xz",
