@@ -103,8 +103,7 @@ flowchart TB
   announce_templates_template_md --> |templates_template_md|announce
     provenance(provenance)
   git --> |git|provenance
-    provenance_analyzed_data_json(../../analyzed_data.json)
-  provenance_analyzed_data_json --> |analyzed_data_json|provenance
+  analyze --> |analyzed_data_json|provenance
   collect --> |raw_data|raw_data
   analyze --> |analyzed_data|analyzed_data
   analyze --> |badge|badge
@@ -128,5 +127,4 @@ flowchart TB
   style announce stroke:#385723,stroke-width:2px;
   style announce_templates_template_md font-size:9px,fill:#cfeae6, stroke:#9FD6CE,stroke-width:2px;
   style provenance stroke:#385723,stroke-width:2px;
-  style provenance_analyzed_data_json font-size:9px,fill:#cfeae6, stroke:#9FD6CE,stroke-width:2px;
 ```
