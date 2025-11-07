@@ -65,7 +65,7 @@ steps:
   - id: git
     source: git
   - id: analyzed_data_json
-    source: analyze/analyzed_data.json
+    source: analyze/analyzed_data
   run: ../provenance/provenance.cwl
   out:
   - history
