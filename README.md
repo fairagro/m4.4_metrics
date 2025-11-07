@@ -68,6 +68,7 @@ s4n connect pipeline --from token --to collect/token
 
 s4n connect pipeline --from collect/raw_data --to analyze/json
 s4n connect pipeline --from analyze/analyzed_data --to announce/json
+s4n connect pipeline --from analyze/analyzed_data --to provenance/analyzed_data_json     
 
 s4n connect pipeline --from collect/raw_data --to raw_data 
 s4n connect pipeline --from analyze/analyzed_data --to analyzed_data
