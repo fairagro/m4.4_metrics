@@ -29,6 +29,8 @@ SciWIn-Client is used on all major operating systems. There are {{os['Linux']}} 
 
 ## Historical Download Chart
 The historical download chart can be viewed below. It is shown how the {{downloads}} overall downloads progressed over time by using the commited data of this repository.
+
+
 ![downloads by date](history.png)
 
 ## Creating this Workflow
