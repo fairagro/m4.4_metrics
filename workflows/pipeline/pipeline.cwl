@@ -6,6 +6,11 @@ class: Workflow
 inputs:
 - id: token
   type: string
+- id: git
+  type: Directory
+  default:
+    class: Directory
+    location: ../../.git
 
 outputs:
 - id: raw_data
@@ -26,6 +31,9 @@ outputs:
 - id: release
   type: File
   outputSource: analyze/release
+- id: history
+  type: File
+  outputSource: provenance/history
 
 steps:
 - id: collect
@@ -52,3 +60,11 @@ steps:
   run: ../announce/announce.cwl
   out:
   - README
+- id: provenance
+  in:
+  - id: git
+    source: git
+  run: ../provenance/provenance.cwl
+  out:
+  - history
+  - provenance_data

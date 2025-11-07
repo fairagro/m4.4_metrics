@@ -27,6 +27,10 @@ SciWIn-Client is used on all major operating systems. There are {{os['Linux']}} 
 {% for key, value in platform.items() %}| {{key}} | {{value}}|
 {% endfor %}
 
+## Historical Download Chart
+The historical download chart can be viewed below. It is shown how the {{downloads}} overall downloads progressed over time by using the commited data of this repository.
+![downloads by date](history.png)
+
 ## Creating this Workflow
 This Metrics are collected by a CWL Workflow which was created using SciWIn-Client itself.
 
@@ -37,22 +41,25 @@ s4n create -c Dockerfile -t metrics --env .env --enable-network --no-commit  pyt
 The other tools are quite easy to create_
 ```bash
 s4n create -c Dockerfile -t metrics python metrics/analyze.py --json raw_data.json \> analyzed_data.json 
+s4n create -c Dockerfile -t metrics -i .git -i analyzed_data.json python metrics/provenance.py \> provenance_data.json
 s4n create -c Dockerfile -t metrics python metrics/announce.py --json analyzed_data.json
 ```
  
 The connections are created as follows:
 ```bash
-s4n connect pipeline --from @inputs/token --to collect/token
+s4n connect pipeline --from token --to collect/token
 
 s4n connect pipeline --from collect/raw_data --to analyze/json
 s4n connect pipeline --from analyze/analyzed_data --to announce/json
 
-s4n connect pipeline --from collect/raw_data --to @outputs/raw_data 
-s4n connect pipeline --from analyze/analyzed_data --to @outputs/analyzed_data
-s4n connect pipeline --from analyze/badge --to @outputs/badge
-s4n connect pipeline --from analyze/platform --to @outputs/platform
-s4n connect pipeline --from analyze/release --to @outputs/release
-s4n connect pipeline --from announce/README --to @outputs/readme
+s4n connect pipeline --from collect/raw_data --to raw_data 
+s4n connect pipeline --from analyze/analyzed_data --to analyzed_data
+s4n connect pipeline --from analyze/badge --to badge
+s4n connect pipeline --from analyze/platform --to platform
+s4n connect pipeline --from analyze/release --to release
+s4n connect pipeline --from announce/README --to readme
+s4n connect pipeline --from git --to provenance/git
+s4n connect pipeline --from provenance/history --to history
 ```
 
 ```mermaid
