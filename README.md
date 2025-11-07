@@ -53,6 +53,7 @@ The other tools are quite easy to create_
 ```bash
 s4n create -c Dockerfile -t metrics python metrics/analyze.py --json raw_data.json \> analyzed_data.json 
 s4n create -c Dockerfile -t metrics python metrics/announce.py --json analyzed_data.json
+s4n create -c Dockerfile -t metrics -i .git -i analyzed_data.json python metrics/provenance.py \> provenance_data.json
 ```
  
 The connections are created as follows:
