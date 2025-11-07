@@ -65,6 +65,7 @@ s4n create -c Dockerfile -t metrics python metrics/announce.py --json analyzed_d
 The connections are created as follows:
 ```bash
 s4n connect pipeline --from token --to collect/token
+s4n connect pipeline --from git --to provenance/git
 
 s4n connect pipeline --from collect/raw_data --to analyze/json
 s4n connect pipeline --from analyze/analyzed_data --to announce/json
@@ -76,7 +77,6 @@ s4n connect pipeline --from analyze/badge --to badge
 s4n connect pipeline --from analyze/platform --to platform
 s4n connect pipeline --from analyze/release --to release
 s4n connect pipeline --from announce/README --to readme
-s4n connect pipeline --from git --to provenance/git
 s4n connect pipeline --from provenance/history --to history
 ```
 
