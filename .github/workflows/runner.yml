@@ -25,6 +25,3 @@ jobs:
         with: 
           commit_message: |
             Updated Metrics data
-
-
-            Co-authored-by: Jens Krumsieck <j.krumsieck@outlook.de>
