@@ -4,7 +4,7 @@ import json
 import os
 
 user = "fairagro"
-repo = "m4.4_sciwin_client"
+repo = "sciwin"
 base_url = f"https://api.github.com/repos/{user}/{repo}"
 
 releases_url = f"{base_url}/releases"
