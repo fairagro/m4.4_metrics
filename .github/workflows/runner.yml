@@ -25,3 +25,4 @@ jobs:
         with: 
           commit_message: |
             Updated Metrics data
+          commit_author: GitHub Actions Bot <actions@github.com>
