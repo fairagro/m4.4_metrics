@@ -4,7 +4,7 @@
 SciWIn-Client helps users creating **Computational Workflows** in CWL. Detailed Information about SciWIn-Client can be found in the [GitHub Repository](https://github.com/fairagro/sciwin). The Metrics shown below have been calculated using the GitHub API. Presentation is done via a CWL Workflow and the scripts in this repository.
 
 ## Downloads by Version
-SciWIn-Client currently has about 322 overall downloads across all versions and operating systems. The lastest version v1.2.0 currently has 1 downloads.
+SciWIn-Client currently has about 392 overall downloads across all versions and operating systems. The lastest version v1.2.0 currently has 6 downloads.
 
 
 ![downloads by version](release.png)
@@ -12,24 +12,24 @@ SciWIn-Client currently has about 322 overall downloads across all versions and 
 
 | Version | Downloads |
 |---------|-----------|
-| v1.2.0 | 1|
-| v1.1.0 | 30|
-| v1.0.0 | 83|
-| v0.8.0 | 34|
-| v0.7.0 | 21|
-| v0.6.1 | 16|
-| v0.6.0 | 5|
-| v0.5.2 | 18|
-| v0.5.1 | 13|
-| v0.5.0 | 12|
-| v0.4.0 | 13|
-| v0.3.0 | 23|
-| v0.2.0 | 11|
-| v0.1.0 | 42|
+| v1.2.0 | 6|
+| v1.1.0 | 35|
+| v1.0.0 | 88|
+| v0.8.0 | 39|
+| v0.7.0 | 26|
+| v0.6.1 | 21|
+| v0.6.0 | 10|
+| v0.5.2 | 23|
+| v0.5.1 | 18|
+| v0.5.0 | 17|
+| v0.4.0 | 18|
+| v0.3.0 | 28|
+| v0.2.0 | 16|
+| v0.1.0 | 47|
 
 
 ## Downloads by Operating System
-SciWIn-Client is used on all major operating systems. There are 172 downloads of the Linux executable, 67 downloads of the Windows executable and 83 downloads of the Mac OS executable.
+SciWIn-Client is used on all major operating systems. There are 200 downloads of the Linux executable, 81 downloads of the Windows executable and 111 downloads of the Mac OS executable.
 
 
 ![downloads by platform](platform.png)
@@ -37,15 +37,15 @@ SciWIn-Client is used on all major operating systems. There are 172 downloads of
 
 | Platform | Downloads |
 |---------|-----------|
-| MacOS (ARM) | 50|
-| Linux (ARM) | 36|
-| MacOS (x64) | 33|
-| Windows (x64) | 67|
-| Linux (x64) | 136|
+| MacOS (ARM) | 64|
+| Linux (ARM) | 50|
+| MacOS (x64) | 47|
+| Windows (x64) | 81|
+| Linux (x64) | 150|
 
 
 ## Historical Download Chart
-The historical download chart can be viewed below. It is shown how the 322 overall downloads progressed over time by using the commited data of this repository.
+The historical download chart can be viewed below. It is shown how the 392 overall downloads progressed over time by using the commited data of this repository.
 
 
 ![downloads by date](history.png)
