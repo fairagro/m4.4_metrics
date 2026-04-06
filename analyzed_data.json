@@ -1,6 +1,6 @@
 {
   "versions": {
-    "v1.2.0": 6,
+    "v1.2.0": 10,
     "v1.1.0": 35,
     "v1.0.0": 88,
     "v0.8.0": 39,
@@ -16,10 +16,10 @@
     "v0.1.0": 47
   },
   "platforms": {
-    "MacOS (ARM)": 64,
-    "Linux (ARM)": 50,
-    "MacOS (x64)": 47,
+    "MacOS (ARM)": 65,
+    "Linux (ARM)": 51,
+    "MacOS (x64)": 48,
     "Windows (x64)": 81,
-    "Linux (x64)": 150
+    "Linux (x64)": 151
   }
 }
