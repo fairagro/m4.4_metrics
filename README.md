@@ -4,7 +4,7 @@
 SciWIn-Client helps users creating **Computational Workflows** in CWL. Detailed Information about SciWIn-Client can be found in the [GitHub Repository](https://github.com/fairagro/sciwin). The Metrics shown below have been calculated using the GitHub API. Presentation is done via a CWL Workflow and the scripts in this repository.
 
 ## Downloads by Version
-SciWIn-Client currently has about 431 overall downloads across all versions and operating systems. The lastest version v1.2.0 currently has 28 downloads.
+SciWIn-Client currently has about 436 overall downloads across all versions and operating systems. The lastest version v1.2.0 currently has 33 downloads.
 
 
 ![downloads by version](release.png)
@@ -12,7 +12,7 @@ SciWIn-Client currently has about 431 overall downloads across all versions and 
 
 | Version | Downloads |
 |---------|-----------|
-| v1.2.0 | 28|
+| v1.2.0 | 33|
 | v1.1.0 | 46|
 | v1.0.0 | 89|
 | v0.8.0 | 39|
@@ -29,7 +29,7 @@ SciWIn-Client currently has about 431 overall downloads across all versions and 
 
 
 ## Downloads by Operating System
-SciWIn-Client is used on all major operating systems. There are 215 downloads of the Linux executable, 90 downloads of the Windows executable and 126 downloads of the Mac OS executable.
+SciWIn-Client is used on all major operating systems. There are 216 downloads of the Linux executable, 94 downloads of the Windows executable and 126 downloads of the Mac OS executable.
 
 
 ![downloads by platform](platform.png)
@@ -40,12 +40,12 @@ SciWIn-Client is used on all major operating systems. There are 215 downloads of
 | MacOS (ARM) | 70|
 | Linux (ARM) | 55|
 | MacOS (x64) | 56|
-| Windows (x64) | 90|
-| Linux (x64) | 160|
+| Windows (x64) | 94|
+| Linux (x64) | 161|
 
 
 ## Historical Download Chart
-The historical download chart can be viewed below. It is shown how the 431 overall downloads progressed over time by using the commited data of this repository.
+The historical download chart can be viewed below. It is shown how the 436 overall downloads progressed over time by using the commited data of this repository.
 
 
 ![downloads by date](history.png)
