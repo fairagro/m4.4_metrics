@@ -1,5 +1,30 @@
 [
   {
+    "tag": "v1.2.2",
+    "assets": [
+      {
+        "name": "s4n-aarch64-apple-darwin.tar.xz",
+        "downloads": 0
+      },
+      {
+        "name": "s4n-aarch64-unknown-linux-gnu.tar.xz",
+        "downloads": 0
+      },
+      {
+        "name": "s4n-x86_64-apple-darwin.tar.xz",
+        "downloads": 0
+      },
+      {
+        "name": "s4n-x86_64-pc-windows-msvc.zip",
+        "downloads": 1
+      },
+      {
+        "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
+        "downloads": 0
+      }
+    ]
+  },
+  {
     "tag": "v1.2.1",
     "assets": [
       {
@@ -20,7 +45,7 @@
       },
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
-        "downloads": 0
+        "downloads": 1
       }
     ]
   },
@@ -216,7 +241,7 @@
       },
       {
         "name": "s4n-x86_64-pc-windows-msvc.zip",
-        "downloads": 5
+        "downloads": 6
       },
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
