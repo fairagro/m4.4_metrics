@@ -137,7 +137,7 @@
       },
       {
         "name": "s4n-x86_64-apple-darwin.tar.xz",
-        "downloads": 5
+        "downloads": 6
       },
       {
         "name": "s4n-x86_64-pc-windows-msvc.zip",
@@ -283,7 +283,7 @@
       },
       {
         "name": "s4n-aarch64-unknown-linux-gnu.tar.xz",
-        "downloads": 3
+        "downloads": 4
       },
       {
         "name": "s4n-x86_64-apple-darwin.tar.xz",
@@ -362,7 +362,7 @@
       },
       {
         "name": "s4n-x86_64-apple-darwin.tar.xz",
-        "downloads": 4
+        "downloads": 5
       },
       {
         "name": "s4n-x86_64-pc-windows-msvc.zip",
