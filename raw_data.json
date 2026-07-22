@@ -145,7 +145,7 @@
       },
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
-        "downloads": 18
+        "downloads": 19
       }
     ]
   },
@@ -329,7 +329,7 @@
     "assets": [
       {
         "name": "s4n-aarch64-apple-darwin.tar.xz",
-        "downloads": 6
+        "downloads": 7
       },
       {
         "name": "s4n-aarch64-unknown-linux-gnu.tar.xz",
@@ -370,7 +370,7 @@
       },
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
-        "downloads": 5
+        "downloads": 6
       }
     ]
   },
