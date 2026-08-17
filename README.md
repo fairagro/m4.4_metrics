@@ -4,7 +4,7 @@
 SciWIn-Client helps users creating **Computational Workflows** in CWL. Detailed Information about SciWIn-Client can be found in the [GitHub Repository](https://github.com/fairagro/sciwin). The Metrics shown below have been calculated using the GitHub API. Presentation is done via a CWL Workflow and the scripts in this repository.
 
 ## Downloads by Version
-SciWIn-Client currently has about 567 overall downloads across all versions and operating systems. The lastest version v1.2.2 currently has 13 downloads.
+SciWIn-Client currently has about 578 overall downloads across all versions and operating systems. The lastest version v1.2.2 currently has 13 downloads.
 
 
 ![downloads by version](release.png)
@@ -14,16 +14,16 @@ SciWIn-Client currently has about 567 overall downloads across all versions and 
 |---------|-----------|
 | v1.2.2 | 13|
 | v1.2.1 | 13|
-| v1.2.0 | 53|
-| v1.1.0 | 52|
-| v1.0.0 | 99|
-| v0.8.0 | 45|
-| v0.7.0 | 31|
-| v0.6.1 | 26|
-| v0.6.0 | 15|
-| v0.5.2 | 28|
-| v0.5.1 | 24|
-| v0.5.0 | 22|
+| v1.2.0 | 54|
+| v1.1.0 | 53|
+| v1.0.0 | 100|
+| v0.8.0 | 46|
+| v0.7.0 | 32|
+| v0.6.1 | 27|
+| v0.6.0 | 16|
+| v0.5.2 | 29|
+| v0.5.1 | 25|
+| v0.5.0 | 24|
 | v0.4.0 | 23|
 | v0.3.0 | 38|
 | v0.2.0 | 28|
@@ -31,7 +31,7 @@ SciWIn-Client currently has about 567 overall downloads across all versions and 
 
 
 ## Downloads by Operating System
-SciWIn-Client is used on all major operating systems. There are 266 downloads of the Linux executable, 127 downloads of the Windows executable and 174 downloads of the Mac OS executable.
+SciWIn-Client is used on all major operating systems. There are 266 downloads of the Linux executable, 138 downloads of the Windows executable and 174 downloads of the Mac OS executable.
 
 
 ![downloads by platform](platform.png)
@@ -42,12 +42,12 @@ SciWIn-Client is used on all major operating systems. There are 266 downloads of
 | MacOS (ARM) | 94|
 | Linux (ARM) | 78|
 | MacOS (x64) | 80|
-| Windows (x64) | 127|
+| Windows (x64) | 138|
 | Linux (x64) | 188|
 
 
 ## Historical Download Chart
-The historical download chart can be viewed below. It is shown how the 567 overall downloads progressed over time by using the commited data of this repository.
+The historical download chart can be viewed below. It is shown how the 578 overall downloads progressed over time by using the commited data of this repository.
 
 
 ![downloads by date](history.png)
