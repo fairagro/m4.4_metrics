@@ -4,7 +4,7 @@
 SciWIn-Client helps users creating **Computational Workflows** in CWL. Detailed Information about SciWIn-Client can be found in the [GitHub Repository](https://github.com/fairagro/sciwin). The Metrics shown below have been calculated using the GitHub API. Presentation is done via a CWL Workflow and the scripts in this repository.
 
 ## Downloads by Version
-SciWIn-Client currently has about 579 overall downloads across all versions and operating systems. The lastest version v2.0.0-beta.1 currently has 0 downloads.
+SciWIn-Client currently has about 581 overall downloads across all versions and operating systems. The lastest version v2.0.0-beta.1 currently has 2 downloads.
 
 
 ![downloads by version](release.png)
@@ -12,7 +12,7 @@ SciWIn-Client currently has about 579 overall downloads across all versions and 
 
 | Version | Downloads |
 |---------|-----------|
-| v2.0.0-beta.1 | 0|
+| v2.0.0-beta.1 | 2|
 | v1.2.2 | 14|
 | v1.2.1 | 13|
 | v1.2.0 | 54|
@@ -32,7 +32,7 @@ SciWIn-Client currently has about 579 overall downloads across all versions and 
 
 
 ## Downloads by Operating System
-SciWIn-Client is used on all major operating systems. There are 267 downloads of the Linux executable, 138 downloads of the Windows executable and 174 downloads of the Mac OS executable.
+SciWIn-Client is used on all major operating systems. There are 267 downloads of the Linux executable, 140 downloads of the Windows executable and 174 downloads of the Mac OS executable.
 
 
 ![downloads by platform](platform.png)
@@ -43,12 +43,12 @@ SciWIn-Client is used on all major operating systems. There are 267 downloads of
 | MacOS (ARM) | 94|
 | Linux (ARM) | 78|
 | MacOS (x64) | 80|
-| Windows (x64) | 138|
+| Windows (x64) | 140|
 | Linux (x64) | 189|
 
 
 ## Historical Download Chart
-The historical download chart can be viewed below. It is shown how the 579 overall downloads progressed over time by using the commited data of this repository.
+The historical download chart can be viewed below. It is shown how the 581 overall downloads progressed over time by using the commited data of this repository.
 
 
 ![downloads by date](history.png)
