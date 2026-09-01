@@ -4,7 +4,7 @@
 SciWIn-Client helps users creating **Computational Workflows** in CWL. Detailed Information about SciWIn-Client can be found in the [GitHub Repository](https://github.com/fairagro/sciwin). The Metrics shown below have been calculated using the GitHub API. Presentation is done via a CWL Workflow and the scripts in this repository.
 
 ## Downloads by Version
-SciWIn-Client currently has about 581 overall downloads across all versions and operating systems. The lastest version v2.0.0-beta.1 currently has 2 downloads.
+SciWIn-Client currently has about 581 overall downloads across all versions and operating systems. The lastest version v2.0.0-beta.2 currently has 0 downloads.
 
 
 ![downloads by version](release.png)
@@ -12,6 +12,7 @@ SciWIn-Client currently has about 581 overall downloads across all versions and 
 
 | Version | Downloads |
 |---------|-----------|
+| v2.0.0-beta.2 | 0|
 | v2.0.0-beta.1 | 2|
 | v1.2.2 | 14|
 | v1.2.1 | 13|
