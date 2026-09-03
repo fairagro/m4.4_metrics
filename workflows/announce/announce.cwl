@@ -17,11 +17,18 @@ requirements:
   dockerImageId: metrics
 
 inputs:
+- id: name
+  type: string[]
+  default: ["sciwin", "sciwin_studio"]
+  inputBinding:
+    prefix: --name
 - id: json
-  type: File
+  type: File[]
   default:
-    class: File
-    location: ../../analyzed_data.json
+  - class: File
+    location: ../../sciwin_analyzed_data.json
+  - class: File
+    location: ../../sciwin_studio_analyzed_data.json
   inputBinding:
     prefix: --json
 - id: templates_template_md

@@ -1,0 +1,16 @@
+{
+  "2026-09-03": {
+    "versions": {
+      "v1.0.0-beta.4": 3,
+      "v1.0.0-beta.3": 2,
+      "v1.0.0-beta.1": 3
+    },
+    "platforms": {
+      "Windows (x64)": 5,
+      "MacOS (ARM64)": 0,
+      "Linux (x64)": 1,
+      "MacOS (x64)": 0,
+      "Linux (ARM64)": 0
+    }
+  }
+}

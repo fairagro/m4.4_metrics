@@ -11,8 +11,7 @@ requirements:
       $include: ../../metrics/provenance.py
   - entryname: .git
     entry: $(inputs.git)
-  - entryname: analyzed_data.json
-    entry: $(inputs.analyzed_data_json)
+  - entry: $(inputs.analyzed_data_json)
 - class: DockerRequirement
   dockerFile:
     $include: ../../Dockerfile
@@ -20,7 +19,7 @@ requirements:
 
 inputs:
 - id: name
-  type: string
+  type: string[]
   inputBinding:
     prefix: --name
 - id: git
@@ -29,16 +28,18 @@ inputs:
     class: Directory
     location: ../../.git
 - id: analyzed_data_json
-  type: File
+  type: File[]
   default:
-    class: File
-    location: ../../analyzed_data.json
+  - class: File
+    location: ../../sciwin_analyzed_data.json
+  - class: File
+    location: ../../sciwin_studio_analyzed_data.json
 
 outputs:
 - id: history
-  type: File[]
+  type: File
   outputBinding:
-    glob: "*.png"
+    glob: history.png
 - id: provenance_data
   type: File[]
   outputBinding:

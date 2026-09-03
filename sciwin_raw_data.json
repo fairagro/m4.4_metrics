@@ -21,6 +21,10 @@
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
         "downloads": 0
+      },
+      {
+        "name": "source.tar.gz",
+        "downloads": 0
       }
     ]
   },
@@ -45,6 +49,10 @@
       },
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
+        "downloads": 0
+      },
+      {
+        "name": "source.tar.gz",
         "downloads": 0
       }
     ]
@@ -71,6 +79,10 @@
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
         "downloads": 0
+      },
+      {
+        "name": "source.tar.gz",
+        "downloads": 0
       }
     ]
   },
@@ -96,6 +108,10 @@
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
         "downloads": 4
+      },
+      {
+        "name": "source.tar.gz",
+        "downloads": 2
       }
     ]
   },
@@ -121,6 +137,10 @@
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
         "downloads": 3
+      },
+      {
+        "name": "source.tar.gz",
+        "downloads": 2
       }
     ]
   },
@@ -146,6 +166,10 @@
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
         "downloads": 14
+      },
+      {
+        "name": "source.tar.gz",
+        "downloads": 3
       }
     ]
   },
@@ -171,6 +195,10 @@
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
         "downloads": 13
+      },
+      {
+        "name": "source.tar.gz",
+        "downloads": 6
       }
     ]
   },
@@ -196,6 +224,10 @@
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
         "downloads": 49
+      },
+      {
+        "name": "source.tar.gz",
+        "downloads": 6
       }
     ]
   },
@@ -221,6 +253,10 @@
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
         "downloads": 19
+      },
+      {
+        "name": "source.tar.gz",
+        "downloads": 3
       }
     ]
   },
@@ -246,6 +282,10 @@
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
         "downloads": 7
+      },
+      {
+        "name": "source.tar.gz",
+        "downloads": 5
       }
     ]
   },
@@ -265,12 +305,20 @@
         "downloads": 4
       },
       {
+        "name": "s4n-x86_64-pc-windows-msvc.msi",
+        "downloads": 5
+      },
+      {
         "name": "s4n-x86_64-pc-windows-msvc.zip",
         "downloads": 5
       },
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
         "downloads": 8
+      },
+      {
+        "name": "source.tar.gz",
+        "downloads": 4
       }
     ]
   },
@@ -290,12 +338,20 @@
         "downloads": 2
       },
       {
+        "name": "s4n-x86_64-pc-windows-msvc.msi",
+        "downloads": 3
+      },
+      {
         "name": "s4n-x86_64-pc-windows-msvc.zip",
         "downloads": 3
       },
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
         "downloads": 7
+      },
+      {
+        "name": "source.tar.gz",
+        "downloads": 2
       }
     ]
   },
@@ -315,12 +371,20 @@
         "downloads": 4
       },
       {
+        "name": "s4n-x86_64-pc-windows-msvc.msi",
+        "downloads": 7
+      },
+      {
         "name": "s4n-x86_64-pc-windows-msvc.zip",
         "downloads": 7
       },
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
         "downloads": 7
+      },
+      {
+        "name": "source.tar.gz",
+        "downloads": 8
       }
     ]
   },
@@ -340,12 +404,20 @@
         "downloads": 5
       },
       {
+        "name": "s4n-x86_64-pc-windows-msvc.msi",
+        "downloads": 5
+      },
+      {
         "name": "s4n-x86_64-pc-windows-msvc.zip",
         "downloads": 6
       },
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
         "downloads": 6
+      },
+      {
+        "name": "source.tar.gz",
+        "downloads": 4
       }
     ]
   },
@@ -365,12 +437,20 @@
         "downloads": 4
       },
       {
+        "name": "s4n-x86_64-pc-windows-msvc.msi",
+        "downloads": 5
+      },
+      {
         "name": "s4n-x86_64-pc-windows-msvc.zip",
         "downloads": 7
       },
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
         "downloads": 5
+      },
+      {
+        "name": "source.tar.gz",
+        "downloads": 4
       }
     ]
   },
@@ -390,12 +470,20 @@
         "downloads": 4
       },
       {
+        "name": "s4n-x86_64-pc-windows-msvc.msi",
+        "downloads": 4
+      },
+      {
         "name": "s4n-x86_64-pc-windows-msvc.zip",
         "downloads": 5
       },
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
         "downloads": 6
+      },
+      {
+        "name": "source.tar.gz",
+        "downloads": 4
       }
     ]
   },
@@ -415,12 +503,20 @@
         "downloads": 6
       },
       {
+        "name": "s4n-x86_64-pc-windows-msvc.msi",
+        "downloads": 7
+      },
+      {
         "name": "s4n-x86_64-pc-windows-msvc.zip",
         "downloads": 8
       },
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
         "downloads": 10
+      },
+      {
+        "name": "source.tar.gz",
+        "downloads": 7
       }
     ]
   },
@@ -440,12 +536,20 @@
         "downloads": 5
       },
       {
+        "name": "s4n-x86_64-pc-windows-msvc.msi",
+        "downloads": 5
+      },
+      {
         "name": "s4n-x86_64-pc-windows-msvc.zip",
         "downloads": 6
       },
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
         "downloads": 6
+      },
+      {
+        "name": "source.tar.gz",
+        "downloads": 5
       }
     ]
   },
@@ -465,12 +569,20 @@
         "downloads": 6
       },
       {
+        "name": "s4n-x86_64-pc-windows-msvc.msi",
+        "downloads": 6
+      },
+      {
         "name": "s4n-x86_64-pc-windows-msvc.zip",
         "downloads": 12
       },
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
         "downloads": 25
+      },
+      {
+        "name": "source.tar.gz",
+        "downloads": 6
       }
     ]
   }
