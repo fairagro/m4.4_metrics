@@ -19,6 +19,10 @@ requirements:
   dockerImageId: metrics
 
 inputs:
+- id: name
+  type: string
+  inputBinding:
+    prefix: --name
 - id: git
   type: Directory
   default:
@@ -32,14 +36,13 @@ inputs:
 
 outputs:
 - id: history
-  type: File
+  type: File[]
   outputBinding:
-    glob: history.png
+    glob: "*.png"
 - id: provenance_data
-  type: File
+  type: File[]
   outputBinding:
-    glob: provenance_data.json
-stdout: provenance_data.json
+    glob: "*_provenance_data.json"
 
 baseCommand:
 - python
