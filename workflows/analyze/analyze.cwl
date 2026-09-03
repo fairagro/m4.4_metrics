@@ -22,25 +22,29 @@ inputs:
     location: ../../raw_data.json
   inputBinding:
     prefix: --json
+- id: name
+  type: string
+  inputBinding:
+    prefix: --name
 
 outputs:
 - id: analyzed_data
   type: File
   outputBinding:
-    glob: analyzed_data.json
+    glob: $(inputs.name)_analyzed_data.json
 - id: badge
   type: File
   outputBinding:
-    glob: badge.svg
+    glob: $(inputs.name)_badge.svg
 - id: platform
   type: File
   outputBinding:
-    glob: platform.png
+    glob: $(inputs.name)_platform.png
 - id: release
   type: File
   outputBinding:
-    glob: release.png
-stdout: analyzed_data.json
+    glob: $(inputs.name)_release.png
+stdout: $(inputs.name)_analyzed_data.json
 
 baseCommand:
 - python

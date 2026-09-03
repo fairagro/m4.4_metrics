@@ -1,0 +1,97 @@
+[
+  {
+    "tag": "v1.0.0-beta.4",
+    "assets": [
+      {
+        "name": "SciWIn-Studio_1.0.0-4_x64-setup.exe",
+        "downloads": 2
+      },
+      {
+        "name": "SciWIn-Studio_1.0.0-4_x64_en-US.msi",
+        "downloads": 1
+      },
+      {
+        "name": "SciWIn-Studio_1.0.0-beta.4_aarch64.app.tar.gz",
+        "downloads": 0
+      },
+      {
+        "name": "SciWIn-Studio_1.0.0-beta.4_aarch64.dmg",
+        "downloads": 0
+      },
+      {
+        "name": "SciWIn-Studio_1.0.0-beta.4_amd64.AppImage",
+        "downloads": 0
+      },
+      {
+        "name": "SciWIn-Studio_1.0.0-beta.4_amd64.deb",
+        "downloads": 0
+      },
+      {
+        "name": "SciWIn-Studio_1.0.0-beta.4_x64.app.tar.gz",
+        "downloads": 0
+      },
+      {
+        "name": "SciWIn-Studio_1.0.0-beta.4_x64.dmg",
+        "downloads": 0
+      }
+    ]
+  },
+  {
+    "tag": "v1.0.0-beta.3",
+    "assets": [
+      {
+        "name": "SciWIn-Studio_1.0.0-beta.3_aarch64.dmg",
+        "downloads": 0
+      },
+      {
+        "name": "SciWIn-Studio_1.0.0-beta.3_amd64.AppImage",
+        "downloads": 0
+      },
+      {
+        "name": "SciWIn-Studio_1.0.0-beta.3_amd64.deb",
+        "downloads": 0
+      },
+      {
+        "name": "SciWIn-Studio_1.0.0-beta.3_x64.dmg",
+        "downloads": 0
+      },
+      {
+        "name": "SciWIn-Studio_aarch64.app.tar.gz",
+        "downloads": 0
+      },
+      {
+        "name": "SciWIn-Studio_x64.app.tar.gz",
+        "downloads": 2
+      }
+    ]
+  },
+  {
+    "tag": "v1.0.0-beta.1",
+    "assets": [
+      {
+        "name": "sciwin_studio-aarch64-apple-darwin.tar.xz",
+        "downloads": 0
+      },
+      {
+        "name": "sciwin_studio-aarch64-unknown-linux-gnu.tar.xz",
+        "downloads": 0
+      },
+      {
+        "name": "sciwin_studio-x86_64-apple-darwin.tar.xz",
+        "downloads": 0
+      },
+      {
+        "name": "sciwin_studio-x86_64-pc-windows-msvc.zip",
+        "downloads": 2
+      },
+      {
+        "name": "sciwin_studio-x86_64-unknown-linux-gnu.tar.xz",
+        "downloads": 1
+      },
+      {
+        "name": "source.tar.gz",
+        "downloads": 0
+      }
+    ]
+  }
+]

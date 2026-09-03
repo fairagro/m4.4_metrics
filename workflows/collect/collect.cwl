@@ -24,13 +24,17 @@ requirements:
 inputs:
 - id: token
   type: string
+- id: repo
+  type: string
+  inputBinding:
+    prefix: --repo
 
 outputs:
 - id: raw_data
   type: File
   outputBinding:
-    glob: raw_data.json
-stdout: raw_data.json
+    glob: $(inputs.repo)_raw_data.json
+stdout: $(inputs.repo)_raw_data.json
 
 baseCommand:
 - python
