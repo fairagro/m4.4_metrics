@@ -1,5 +1,42 @@
 [
   {
+    "tag": "v1.0.0-beta.5",
+    "assets": [
+      {
+        "name": "SciWIn-Studio_1.0.0-5_x64-setup.exe",
+        "downloads": 0
+      },
+      {
+        "name": "SciWIn-Studio_1.0.0-5_x64_en-US.msi",
+        "downloads": 0
+      },
+      {
+        "name": "SciWIn-Studio_1.0.0-beta.5_aarch64.app.tar.gz",
+        "downloads": 0
+      },
+      {
+        "name": "SciWIn-Studio_1.0.0-beta.5_aarch64.dmg",
+        "downloads": 0
+      },
+      {
+        "name": "SciWIn-Studio_1.0.0-beta.5_amd64.AppImage",
+        "downloads": 0
+      },
+      {
+        "name": "SciWIn-Studio_1.0.0-beta.5_amd64.deb",
+        "downloads": 0
+      },
+      {
+        "name": "SciWIn-Studio_1.0.0-beta.5_x64.app.tar.gz",
+        "downloads": 0
+      },
+      {
+        "name": "SciWIn-Studio_1.0.0-beta.5_x64.dmg",
+        "downloads": 0
+      }
+    ]
+  },
+  {
     "tag": "v1.0.0-beta.4",
     "assets": [
       {

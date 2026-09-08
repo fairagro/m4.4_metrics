@@ -8,7 +8,7 @@ The Metrics shown below have been calculated using the GitHub API for each of th
 SciWIn-Client helps users creating **Computational Workflows** in CWL. Detailed information about SciWIn-Client can be found in the [GitHub Repository](https://github.com/fairagro/sciwin).
 
 ### Downloads by Version
-SciWIn-Client currently has about 707 overall downloads across all versions and operating systems. The latest version v2.0.0-beta.4 currently has 6 downloads.
+SciWIn-Client currently has about 711 overall downloads across all versions and operating systems. The latest version v2.0.0-beta.5 currently has 0 downloads.
 
 
 ![downloads by version](sciwin_release.png)
@@ -16,9 +16,10 @@ SciWIn-Client currently has about 707 overall downloads across all versions and 
 
 | Version | Downloads |
 |---------|-----------|
-| v2.0.0-beta.4 | 6|
-| v2.0.0-beta.3 | 2|
-| v2.0.0-beta.2 | 0|
+| v2.0.0-beta.5 | 0|
+| v2.0.0-beta.4 | 7|
+| v2.0.0-beta.3 | 3|
+| v2.0.0-beta.2 | 1|
 | v2.0.0-beta.1 | 2|
 | v1.2.2 | 16|
 | v1.2.1 | 15|
@@ -32,7 +33,7 @@ SciWIn-Client currently has about 707 overall downloads across all versions and 
 | v0.5.2 | 44|
 | v0.5.1 | 34|
 | v0.5.0 | 33|
-| v0.4.0 | 31|
+| v0.4.0 | 32|
 | v0.3.0 | 52|
 | v0.2.0 | 38|
 | v0.1.0 | 69|
@@ -61,7 +62,7 @@ There are 269 downloads of the Linux build, 190 downloads of the Windows build a
 SciWIn-Studio is the desktop application for SciWIn, available for Windows, macOS and Linux. Detailed information about SciWIn-Studio can be found in the [GitHub Repository](https://github.com/fairagro/sciwin_studio).
 
 ### Downloads by Version
-SciWIn-Studio currently has about 10 overall downloads across all versions and operating systems. The latest version v1.0.0-beta.4 currently has 5 downloads.
+SciWIn-Studio currently has about 10 overall downloads across all versions and operating systems. The latest version v1.0.0-beta.5 currently has 0 downloads.
 
 
 ![downloads by version](sciwin_studio_release.png)
@@ -69,6 +70,7 @@ SciWIn-Studio currently has about 10 overall downloads across all versions and o
 
 | Version | Downloads |
 |---------|-----------|
+| v1.0.0-beta.5 | 0|
 | v1.0.0-beta.4 | 5|
 | v1.0.0-beta.3 | 2|
 | v1.0.0-beta.1 | 3|
@@ -92,7 +94,7 @@ There are 1 downloads of the Linux build, 5 downloads of the Windows build and 0
 
 
 ## Historical Download Chart
-The historical download chart below shows how the 717 combined downloads across all tracked projects progressed over time, using the commited data of this repository.
+The historical download chart below shows how the 721 combined downloads across all tracked projects progressed over time, using the commited data of this repository.
 
 
 ![downloads by date](history.png)
