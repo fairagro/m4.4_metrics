@@ -8,19 +8,19 @@
       },
       {
         "name": "SciWIn-Studio_1.0.1_aarch64.dmg",
-        "downloads": 0
+        "downloads": 1
       },
       {
         "name": "SciWIn-Studio_1.0.1_amd64.AppImage",
-        "downloads": 0
+        "downloads": 1
       },
       {
         "name": "SciWIn-Studio_1.0.1_amd64.deb",
-        "downloads": 0
+        "downloads": 1
       },
       {
         "name": "SciWIn-Studio_1.0.1_x64-setup.exe",
-        "downloads": 0
+        "downloads": 3
       },
       {
         "name": "SciWIn-Studio_1.0.1_x64.app.tar.gz",
@@ -28,11 +28,11 @@
       },
       {
         "name": "SciWIn-Studio_1.0.1_x64.dmg",
-        "downloads": 0
+        "downloads": 1
       },
       {
         "name": "SciWIn-Studio_1.0.1_x64_en-US.msi",
-        "downloads": 0
+        "downloads": 2
       }
     ]
   },
