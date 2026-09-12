@@ -8,7 +8,7 @@ The Metrics shown below have been calculated using the GitHub API for each of th
 SciWIn-Client helps users creating **Computational Workflows** in CWL. Detailed information about SciWIn-Client can be found in the [GitHub Repository](https://github.com/fairagro/sciwin).
 
 ### Downloads by Version
-SciWIn-Client currently has about 749 overall downloads across all versions and operating systems. The latest version v2.0.1 currently has 8 downloads.
+SciWIn-Client currently has about 756 overall downloads across all versions and operating systems. The latest version v2.0.1 currently has 9 downloads.
 
 
 ![downloads by version](sciwin_release.png)
@@ -16,12 +16,12 @@ SciWIn-Client currently has about 749 overall downloads across all versions and 
 
 | Version | Downloads |
 |---------|-----------|
-| v2.0.1 | 8|
+| v2.0.1 | 9|
 | v2.0.0 | 5|
 | v2.0.0-beta.5 | 0|
-| v2.0.0-beta.4 | 14|
-| v2.0.0-beta.3 | 9|
-| v2.0.0-beta.2 | 4|
+| v2.0.0-beta.4 | 15|
+| v2.0.0-beta.3 | 10|
+| v2.0.0-beta.2 | 7|
 | v2.0.0-beta.1 | 4|
 | v1.2.2 | 18|
 | v1.2.1 | 15|
@@ -35,14 +35,14 @@ SciWIn-Client currently has about 749 overall downloads across all versions and 
 | v0.5.2 | 44|
 | v0.5.1 | 34|
 | v0.5.0 | 33|
-| v0.4.0 | 37|
+| v0.4.0 | 38|
 | v0.3.0 | 52|
 | v0.2.0 | 38|
 | v0.1.0 | 69|
 
 
 ### Downloads by Operating System
-There are 282 downloads of the Linux build, 200 downloads of the Windows build and 189 downloads of the macOS build.
+There are 285 downloads of the Linux build, 201 downloads of the Windows build and 192 downloads of the macOS build.
 
 
 ![downloads by platform](sciwin_platform.png)
@@ -50,11 +50,11 @@ There are 282 downloads of the Linux build, 200 downloads of the Windows build a
 
 | Platform | Downloads |
 |---------|-----------|
-| MacOS (ARM64) | 102|
-| Linux (ARM64) | 83|
-| MacOS (x64) | 87|
-| Windows (x64) | 200|
-| Linux (x64) | 199|
+| MacOS (ARM64) | 103|
+| Linux (ARM64) | 85|
+| MacOS (x64) | 89|
+| Windows (x64) | 201|
+| Linux (x64) | 200|
 
 
 
@@ -64,7 +64,7 @@ There are 282 downloads of the Linux build, 200 downloads of the Windows build a
 SciWIn-Studio is the desktop application for SciWIn, available for Windows, macOS and Linux. Detailed information about SciWIn-Studio can be found in the [GitHub Repository](https://github.com/fairagro/sciwin_studio).
 
 ### Downloads by Version
-SciWIn-Studio currently has about 23 overall downloads across all versions and operating systems. The latest version v1.0.1 currently has 9 downloads.
+SciWIn-Studio currently has about 24 overall downloads across all versions and operating systems. The latest version v1.0.1 currently has 10 downloads.
 
 
 ![downloads by version](sciwin_studio_release.png)
@@ -72,7 +72,7 @@ SciWIn-Studio currently has about 23 overall downloads across all versions and o
 
 | Version | Downloads |
 |---------|-----------|
-| v1.0.1 | 9|
+| v1.0.1 | 10|
 | v1.0.0 | 2|
 | v1.0.0-beta.5 | 2|
 | v1.0.0-beta.4 | 5|
@@ -81,7 +81,7 @@ SciWIn-Studio currently has about 23 overall downloads across all versions and o
 
 
 ### Downloads by Operating System
-There are 5 downloads of the Linux build, 12 downloads of the Windows build and 2 downloads of the macOS build.
+There are 6 downloads of the Linux build, 12 downloads of the Windows build and 2 downloads of the macOS build.
 
 
 ![downloads by platform](sciwin_studio_platform.png)
@@ -90,7 +90,7 @@ There are 5 downloads of the Linux build, 12 downloads of the Windows build and 
 | Platform | Downloads |
 |---------|-----------|
 | MacOS (ARM64) | 1|
-| Linux (x64) | 5|
+| Linux (x64) | 6|
 | Windows (x64) | 12|
 | MacOS (x64) | 1|
 | Linux (ARM64) | 0|
@@ -98,7 +98,7 @@ There are 5 downloads of the Linux build, 12 downloads of the Windows build and 
 
 
 ## Historical Download Chart
-The historical download chart below shows how the 772 combined downloads across all tracked projects progressed over time, using the commited data of this repository.
+The historical download chart below shows how the 780 combined downloads across all tracked projects progressed over time, using the commited data of this repository.
 
 
 ![downloads by date](history.png)
