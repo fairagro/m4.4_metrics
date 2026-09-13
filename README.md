@@ -8,7 +8,7 @@ The Metrics shown below have been calculated using the GitHub API for each of th
 SciWIn-Client helps users creating **Computational Workflows** in CWL. Detailed information about SciWIn-Client can be found in the [GitHub Repository](https://github.com/fairagro/sciwin).
 
 ### Downloads by Version
-SciWIn-Client currently has about 756 overall downloads across all versions and operating systems. The latest version v2.0.1 currently has 9 downloads.
+SciWIn-Client currently has about 761 overall downloads across all versions and operating systems. The latest version v2.0.1 currently has 9 downloads.
 
 
 ![downloads by version](sciwin_release.png)
@@ -19,9 +19,9 @@ SciWIn-Client currently has about 756 overall downloads across all versions and 
 | v2.0.1 | 9|
 | v2.0.0 | 5|
 | v2.0.0-beta.5 | 0|
-| v2.0.0-beta.4 | 15|
-| v2.0.0-beta.3 | 10|
-| v2.0.0-beta.2 | 7|
+| v2.0.0-beta.4 | 17|
+| v2.0.0-beta.3 | 11|
+| v2.0.0-beta.2 | 9|
 | v2.0.0-beta.1 | 4|
 | v1.2.2 | 18|
 | v1.2.1 | 15|
@@ -42,7 +42,7 @@ SciWIn-Client currently has about 756 overall downloads across all versions and 
 
 
 ### Downloads by Operating System
-There are 285 downloads of the Linux build, 201 downloads of the Windows build and 192 downloads of the macOS build.
+There are 287 downloads of the Linux build, 202 downloads of the Windows build and 194 downloads of the macOS build.
 
 
 ![downloads by platform](sciwin_platform.png)
@@ -50,11 +50,11 @@ There are 285 downloads of the Linux build, 201 downloads of the Windows build a
 
 | Platform | Downloads |
 |---------|-----------|
-| MacOS (ARM64) | 103|
-| Linux (ARM64) | 85|
-| MacOS (x64) | 89|
-| Windows (x64) | 201|
-| Linux (x64) | 200|
+| MacOS (ARM64) | 104|
+| Linux (ARM64) | 86|
+| MacOS (x64) | 90|
+| Windows (x64) | 202|
+| Linux (x64) | 201|
 
 
 
@@ -98,7 +98,7 @@ There are 6 downloads of the Linux build, 12 downloads of the Windows build and 
 
 
 ## Historical Download Chart
-The historical download chart below shows how the 780 combined downloads across all tracked projects progressed over time, using the commited data of this repository.
+The historical download chart below shows how the 785 combined downloads across all tracked projects progressed over time, using the commited data of this repository.
 
 
 ![downloads by date](history.png)
