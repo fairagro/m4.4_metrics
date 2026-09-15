@@ -8,7 +8,7 @@ The Metrics shown below have been calculated using the GitHub API for each of th
 SciWIn-Client helps users creating **Computational Workflows** in CWL. Detailed information about SciWIn-Client can be found in the [GitHub Repository](https://github.com/fairagro/sciwin).
 
 ### Downloads by Version
-SciWIn-Client currently has about 766 overall downloads across all versions and operating systems. The latest version v2.0.1 currently has 10 downloads.
+SciWIn-Client currently has about 923 overall downloads across all versions and operating systems. The latest version v2.0.1 currently has 23 downloads.
 
 
 ![downloads by version](sciwin_release.png)
@@ -16,33 +16,33 @@ SciWIn-Client currently has about 766 overall downloads across all versions and 
 
 | Version | Downloads |
 |---------|-----------|
-| v2.0.1 | 10|
-| v2.0.0 | 5|
-| v2.0.0-beta.5 | 0|
-| v2.0.0-beta.4 | 17|
-| v2.0.0-beta.3 | 12|
-| v2.0.0-beta.2 | 11|
-| v2.0.0-beta.1 | 5|
-| v1.2.2 | 18|
-| v1.2.1 | 15|
-| v1.2.0 | 57|
-| v1.1.0 | 59|
-| v1.0.0 | 106|
-| v0.8.0 | 49|
-| v0.7.0 | 37|
-| v0.6.1 | 36|
-| v0.6.0 | 21|
-| v0.5.2 | 44|
-| v0.5.1 | 34|
-| v0.5.0 | 33|
-| v0.4.0 | 38|
-| v0.3.0 | 52|
-| v0.2.0 | 38|
-| v0.1.0 | 69|
+| v2.0.1 | 23|
+| v2.0.0 | 11|
+| v2.0.0-beta.5 | 6|
+| v2.0.0-beta.4 | 24|
+| v2.0.0-beta.3 | 19|
+| v2.0.0-beta.2 | 17|
+| v2.0.0-beta.1 | 12|
+| v1.2.2 | 24|
+| v1.2.1 | 21|
+| v1.2.0 | 63|
+| v1.1.0 | 65|
+| v1.0.0 | 112|
+| v0.8.0 | 55|
+| v0.7.0 | 43|
+| v0.6.1 | 43|
+| v0.6.0 | 28|
+| v0.5.2 | 51|
+| v0.5.1 | 41|
+| v0.5.0 | 40|
+| v0.4.0 | 45|
+| v0.3.0 | 59|
+| v0.2.0 | 45|
+| v0.1.0 | 76|
 
 
 ### Downloads by Operating System
-There are 289 downloads of the Linux build, 204 downloads of the Windows build and 194 downloads of the macOS build.
+There are 339 downloads of the Linux build, 238 downloads of the Windows build and 242 downloads of the macOS build.
 
 
 ![downloads by platform](sciwin_platform.png)
@@ -50,11 +50,11 @@ There are 289 downloads of the Linux build, 204 downloads of the Windows build a
 
 | Platform | Downloads |
 |---------|-----------|
-| MacOS (ARM64) | 104|
-| Linux (ARM64) | 86|
-| MacOS (x64) | 90|
-| Windows (x64) | 204|
-| Linux (x64) | 203|
+| MacOS (ARM64) | 129|
+| Linux (ARM64) | 109|
+| MacOS (x64) | 113|
+| Windows (x64) | 238|
+| Linux (x64) | 230|
 
 
 
@@ -64,7 +64,7 @@ There are 289 downloads of the Linux build, 204 downloads of the Windows build a
 SciWIn-Studio is the desktop application for SciWIn, available for Windows, macOS and Linux. Detailed information about SciWIn-Studio can be found in the [GitHub Repository](https://github.com/fairagro/sciwin_studio).
 
 ### Downloads by Version
-SciWIn-Studio currently has about 24 overall downloads across all versions and operating systems. The latest version v1.0.1 currently has 10 downloads.
+SciWIn-Studio currently has about 76 overall downloads across all versions and operating systems. The latest version v1.0.1 currently has 25 downloads.
 
 
 ![downloads by version](sciwin_studio_release.png)
@@ -72,16 +72,16 @@ SciWIn-Studio currently has about 24 overall downloads across all versions and o
 
 | Version | Downloads |
 |---------|-----------|
-| v1.0.1 | 10|
-| v1.0.0 | 2|
-| v1.0.0-beta.5 | 2|
-| v1.0.0-beta.4 | 5|
-| v1.0.0-beta.3 | 2|
-| v1.0.0-beta.1 | 3|
+| v1.0.1 | 25|
+| v1.0.0 | 11|
+| v1.0.0-beta.5 | 10|
+| v1.0.0-beta.4 | 13|
+| v1.0.0-beta.3 | 8|
+| v1.0.0-beta.1 | 9|
 
 
 ### Downloads by Operating System
-There are 6 downloads of the Linux build, 12 downloads of the Windows build and 2 downloads of the macOS build.
+There are 21 downloads of the Linux build, 23 downloads of the Windows build and 17 downloads of the macOS build.
 
 
 ![downloads by platform](sciwin_studio_platform.png)
@@ -89,16 +89,16 @@ There are 6 downloads of the Linux build, 12 downloads of the Windows build and 
 
 | Platform | Downloads |
 |---------|-----------|
-| MacOS (ARM64) | 1|
-| Linux (x64) | 6|
-| Windows (x64) | 12|
-| MacOS (x64) | 1|
-| Linux (ARM64) | 0|
+| MacOS (ARM64) | 9|
+| Linux (x64) | 20|
+| Windows (x64) | 23|
+| MacOS (x64) | 8|
+| Linux (ARM64) | 1|
 
 
 
 ## Historical Download Chart
-The historical download chart below shows how the 790 combined downloads across all tracked projects progressed over time, using the commited data of this repository.
+The historical download chart below shows how the 999 combined downloads across all tracked projects progressed over time, using the commited data of this repository.
 
 
 ![downloads by date](history.png)
