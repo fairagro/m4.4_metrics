@@ -4,27 +4,27 @@
     "assets": [
       {
         "name": "s4n-aarch64-apple-darwin.tar.xz",
-        "downloads": 5
+        "downloads": 6
       },
       {
         "name": "s4n-aarch64-unknown-linux-gnu.tar.xz",
-        "downloads": 2
+        "downloads": 3
       },
       {
         "name": "s4n-x86_64-apple-darwin.tar.xz",
-        "downloads": 2
+        "downloads": 3
       },
       {
         "name": "s4n-x86_64-pc-windows-msvc.zip",
-        "downloads": 8
+        "downloads": 9
       },
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
-        "downloads": 10
+        "downloads": 11
       },
       {
         "name": "source.tar.gz",
-        "downloads": 2
+        "downloads": 3
       }
     ]
   },
@@ -33,27 +33,27 @@
     "assets": [
       {
         "name": "s4n-aarch64-apple-darwin.tar.xz",
-        "downloads": 1
-      },
-      {
-        "name": "s4n-aarch64-unknown-linux-gnu.tar.xz",
-        "downloads": 1
-      },
-      {
-        "name": "s4n-x86_64-apple-darwin.tar.xz",
-        "downloads": 1
-      },
-      {
-        "name": "s4n-x86_64-pc-windows-msvc.zip",
         "downloads": 2
       },
       {
+        "name": "s4n-aarch64-unknown-linux-gnu.tar.xz",
+        "downloads": 2
+      },
+      {
+        "name": "s4n-x86_64-apple-darwin.tar.xz",
+        "downloads": 2
+      },
+      {
+        "name": "s4n-x86_64-pc-windows-msvc.zip",
+        "downloads": 3
+      },
+      {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
-        "downloads": 5
+        "downloads": 6
       },
       {
         "name": "source.tar.gz",
-        "downloads": 1
+        "downloads": 2
       }
     ]
   },
@@ -62,27 +62,27 @@
     "assets": [
       {
         "name": "s4n-aarch64-apple-darwin.tar.xz",
-        "downloads": 1
+        "downloads": 2
       },
       {
         "name": "s4n-aarch64-unknown-linux-gnu.tar.xz",
-        "downloads": 1
+        "downloads": 2
       },
       {
         "name": "s4n-x86_64-apple-darwin.tar.xz",
-        "downloads": 1
+        "downloads": 2
       },
       {
         "name": "s4n-x86_64-pc-windows-msvc.zip",
-        "downloads": 1
+        "downloads": 2
       },
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
-        "downloads": 1
+        "downloads": 2
       },
       {
         "name": "source.tar.gz",
-        "downloads": 1
+        "downloads": 2
       }
     ]
   },
@@ -91,27 +91,27 @@
     "assets": [
       {
         "name": "s4n-aarch64-apple-darwin.tar.xz",
-        "downloads": 4
+        "downloads": 5
       },
       {
         "name": "s4n-aarch64-unknown-linux-gnu.tar.xz",
-        "downloads": 4
+        "downloads": 5
       },
       {
         "name": "s4n-x86_64-apple-darwin.tar.xz",
-        "downloads": 4
+        "downloads": 5
       },
       {
         "name": "s4n-x86_64-pc-windows-msvc.zip",
-        "downloads": 4
+        "downloads": 5
       },
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
-        "downloads": 4
+        "downloads": 5
       },
       {
         "name": "source.tar.gz",
-        "downloads": 4
+        "downloads": 5
       }
     ]
   },
@@ -120,27 +120,27 @@
     "assets": [
       {
         "name": "s4n-aarch64-apple-darwin.tar.xz",
-        "downloads": 3
+        "downloads": 4
       },
       {
         "name": "s4n-aarch64-unknown-linux-gnu.tar.xz",
-        "downloads": 3
+        "downloads": 4
       },
       {
         "name": "s4n-x86_64-apple-darwin.tar.xz",
-        "downloads": 3
+        "downloads": 4
       },
       {
         "name": "s4n-x86_64-pc-windows-msvc.zip",
-        "downloads": 5
+        "downloads": 6
       },
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
-        "downloads": 3
+        "downloads": 4
       },
       {
         "name": "source.tar.gz",
-        "downloads": 3
+        "downloads": 4
       }
     ]
   },
@@ -149,27 +149,27 @@
     "assets": [
       {
         "name": "s4n-aarch64-apple-darwin.tar.xz",
-        "downloads": 3
+        "downloads": 4
       },
       {
         "name": "s4n-aarch64-unknown-linux-gnu.tar.xz",
-        "downloads": 3
+        "downloads": 4
       },
       {
         "name": "s4n-x86_64-apple-darwin.tar.xz",
-        "downloads": 3
+        "downloads": 4
       },
       {
         "name": "s4n-x86_64-pc-windows-msvc.zip",
-        "downloads": 3
+        "downloads": 4
       },
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
-        "downloads": 3
+        "downloads": 4
       },
       {
         "name": "source.tar.gz",
-        "downloads": 3
+        "downloads": 4
       }
     ]
   },
@@ -178,27 +178,27 @@
     "assets": [
       {
         "name": "s4n-aarch64-apple-darwin.tar.xz",
-        "downloads": 2
+        "downloads": 3
       },
       {
         "name": "s4n-aarch64-unknown-linux-gnu.tar.xz",
-        "downloads": 2
+        "downloads": 3
       },
       {
         "name": "s4n-x86_64-apple-darwin.tar.xz",
-        "downloads": 2
+        "downloads": 3
       },
       {
         "name": "s4n-x86_64-pc-windows-msvc.zip",
-        "downloads": 4
+        "downloads": 5
       },
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
-        "downloads": 1
+        "downloads": 3
       },
       {
         "name": "source.tar.gz",
-        "downloads": 2
+        "downloads": 3
       }
     ]
   },
@@ -207,27 +207,27 @@
     "assets": [
       {
         "name": "s4n-aarch64-apple-darwin.tar.xz",
-        "downloads": 3
+        "downloads": 4
       },
       {
         "name": "s4n-aarch64-unknown-linux-gnu.tar.xz",
-        "downloads": 3
+        "downloads": 4
       },
       {
         "name": "s4n-x86_64-apple-darwin.tar.xz",
-        "downloads": 3
+        "downloads": 4
       },
       {
         "name": "s4n-x86_64-pc-windows-msvc.zip",
-        "downloads": 7
+        "downloads": 8
       },
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
-        "downloads": 5
+        "downloads": 6
       },
       {
         "name": "source.tar.gz",
-        "downloads": 3
+        "downloads": 4
       }
     ]
   },
@@ -236,27 +236,27 @@
     "assets": [
       {
         "name": "s4n-aarch64-apple-darwin.tar.xz",
-        "downloads": 3
-      },
-      {
-        "name": "s4n-aarch64-unknown-linux-gnu.tar.xz",
-        "downloads": 3
-      },
-      {
-        "name": "s4n-x86_64-apple-darwin.tar.xz",
-        "downloads": 3
-      },
-      {
-        "name": "s4n-x86_64-pc-windows-msvc.zip",
-        "downloads": 5
-      },
-      {
-        "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
         "downloads": 4
       },
       {
+        "name": "s4n-aarch64-unknown-linux-gnu.tar.xz",
+        "downloads": 4
+      },
+      {
+        "name": "s4n-x86_64-apple-darwin.tar.xz",
+        "downloads": 4
+      },
+      {
+        "name": "s4n-x86_64-pc-windows-msvc.zip",
+        "downloads": 6
+      },
+      {
+        "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
+        "downloads": 5
+      },
+      {
         "name": "source.tar.gz",
-        "downloads": 3
+        "downloads": 4
       }
     ]
   },
@@ -265,27 +265,27 @@
     "assets": [
       {
         "name": "s4n-aarch64-apple-darwin.tar.xz",
-        "downloads": 8
+        "downloads": 9
       },
       {
         "name": "s4n-aarch64-unknown-linux-gnu.tar.xz",
-        "downloads": 7
+        "downloads": 8
       },
       {
         "name": "s4n-x86_64-apple-darwin.tar.xz",
-        "downloads": 11
+        "downloads": 12
       },
       {
         "name": "s4n-x86_64-pc-windows-msvc.zip",
-        "downloads": 18
+        "downloads": 19
       },
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
-        "downloads": 15
+        "downloads": 16
       },
       {
         "name": "source.tar.gz",
-        "downloads": 4
+        "downloads": 5
       }
     ]
   },
@@ -294,27 +294,27 @@
     "assets": [
       {
         "name": "s4n-aarch64-apple-darwin.tar.xz",
-        "downloads": 17
+        "downloads": 18
       },
       {
         "name": "s4n-aarch64-unknown-linux-gnu.tar.xz",
-        "downloads": 7
+        "downloads": 8
       },
       {
         "name": "s4n-x86_64-apple-darwin.tar.xz",
-        "downloads": 10
+        "downloads": 11
       },
       {
         "name": "s4n-x86_64-pc-windows-msvc.zip",
-        "downloads": 10
+        "downloads": 11
       },
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
-        "downloads": 14
+        "downloads": 15
       },
       {
         "name": "source.tar.gz",
-        "downloads": 7
+        "downloads": 8
       }
     ]
   },
@@ -323,27 +323,27 @@
     "assets": [
       {
         "name": "s4n-aarch64-apple-darwin.tar.xz",
-        "downloads": 8
-      },
-      {
-        "name": "s4n-aarch64-unknown-linux-gnu.tar.xz",
         "downloads": 9
       },
       {
+        "name": "s4n-aarch64-unknown-linux-gnu.tar.xz",
+        "downloads": 10
+      },
+      {
         "name": "s4n-x86_64-apple-darwin.tar.xz",
-        "downloads": 7
+        "downloads": 8
       },
       {
         "name": "s4n-x86_64-pc-windows-msvc.zip",
-        "downloads": 31
+        "downloads": 32
       },
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
-        "downloads": 50
+        "downloads": 51
       },
       {
         "name": "source.tar.gz",
-        "downloads": 7
+        "downloads": 8
       }
     ]
   },
@@ -352,27 +352,27 @@
     "assets": [
       {
         "name": "s4n-aarch64-apple-darwin.tar.xz",
-        "downloads": 8
-      },
-      {
-        "name": "s4n-aarch64-unknown-linux-gnu.tar.xz",
-        "downloads": 7
-      },
-      {
-        "name": "s4n-x86_64-apple-darwin.tar.xz",
-        "downloads": 7
-      },
-      {
-        "name": "s4n-x86_64-pc-windows-msvc.zip",
         "downloads": 9
       },
       {
+        "name": "s4n-aarch64-unknown-linux-gnu.tar.xz",
+        "downloads": 8
+      },
+      {
+        "name": "s4n-x86_64-apple-darwin.tar.xz",
+        "downloads": 8
+      },
+      {
+        "name": "s4n-x86_64-pc-windows-msvc.zip",
+        "downloads": 10
+      },
+      {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
-        "downloads": 20
+        "downloads": 21
       },
       {
         "name": "source.tar.gz",
-        "downloads": 4
+        "downloads": 5
       }
     ]
   },
@@ -381,27 +381,27 @@
     "assets": [
       {
         "name": "s4n-aarch64-apple-darwin.tar.xz",
-        "downloads": 8
+        "downloads": 9
       },
       {
         "name": "s4n-aarch64-unknown-linux-gnu.tar.xz",
-        "downloads": 7
+        "downloads": 8
       },
       {
         "name": "s4n-x86_64-apple-darwin.tar.xz",
-        "downloads": 6
+        "downloads": 7
       },
       {
         "name": "s4n-x86_64-pc-windows-msvc.zip",
-        "downloads": 8
+        "downloads": 9
       },
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
-        "downloads": 8
+        "downloads": 9
       },
       {
         "name": "source.tar.gz",
-        "downloads": 6
+        "downloads": 7
       }
     ]
   },
@@ -410,31 +410,31 @@
     "assets": [
       {
         "name": "s4n-aarch64-apple-darwin.tar.xz",
-        "downloads": 7
+        "downloads": 8
       },
       {
         "name": "s4n-aarch64-unknown-linux-gnu.tar.xz",
-        "downloads": 5
+        "downloads": 6
       },
       {
         "name": "s4n-x86_64-apple-darwin.tar.xz",
-        "downloads": 5
+        "downloads": 6
       },
       {
         "name": "s4n-x86_64-pc-windows-msvc.msi",
-        "downloads": 6
+        "downloads": 7
       },
       {
         "name": "s4n-x86_64-pc-windows-msvc.zip",
-        "downloads": 6
+        "downloads": 7
       },
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
-        "downloads": 9
+        "downloads": 10
       },
       {
         "name": "source.tar.gz",
-        "downloads": 5
+        "downloads": 6
       }
     ]
   },
@@ -443,31 +443,31 @@
     "assets": [
       {
         "name": "s4n-aarch64-apple-darwin.tar.xz",
-        "downloads": 3
+        "downloads": 4
       },
       {
         "name": "s4n-aarch64-unknown-linux-gnu.tar.xz",
-        "downloads": 3
+        "downloads": 4
       },
       {
         "name": "s4n-x86_64-apple-darwin.tar.xz",
-        "downloads": 3
+        "downloads": 4
       },
       {
         "name": "s4n-x86_64-pc-windows-msvc.msi",
-        "downloads": 4
+        "downloads": 5
       },
       {
         "name": "s4n-x86_64-pc-windows-msvc.zip",
-        "downloads": 4
+        "downloads": 5
       },
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
-        "downloads": 8
+        "downloads": 9
       },
       {
         "name": "source.tar.gz",
-        "downloads": 3
+        "downloads": 4
       }
     ]
   },
@@ -476,31 +476,31 @@
     "assets": [
       {
         "name": "s4n-aarch64-apple-darwin.tar.xz",
-        "downloads": 5
+        "downloads": 6
       },
       {
         "name": "s4n-aarch64-unknown-linux-gnu.tar.xz",
-        "downloads": 8
+        "downloads": 9
       },
       {
         "name": "s4n-x86_64-apple-darwin.tar.xz",
-        "downloads": 5
+        "downloads": 6
       },
       {
         "name": "s4n-x86_64-pc-windows-msvc.msi",
-        "downloads": 8
+        "downloads": 9
       },
       {
         "name": "s4n-x86_64-pc-windows-msvc.zip",
-        "downloads": 8
+        "downloads": 9
       },
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
-        "downloads": 8
+        "downloads": 9
       },
       {
         "name": "source.tar.gz",
-        "downloads": 9
+        "downloads": 10
       }
     ]
   },
@@ -509,31 +509,31 @@
     "assets": [
       {
         "name": "s4n-aarch64-apple-darwin.tar.xz",
-        "downloads": 5
+        "downloads": 6
       },
       {
         "name": "s4n-aarch64-unknown-linux-gnu.tar.xz",
-        "downloads": 5
+        "downloads": 6
       },
       {
         "name": "s4n-x86_64-apple-darwin.tar.xz",
-        "downloads": 6
+        "downloads": 7
       },
       {
         "name": "s4n-x86_64-pc-windows-msvc.msi",
-        "downloads": 6
+        "downloads": 7
       },
       {
         "name": "s4n-x86_64-pc-windows-msvc.zip",
-        "downloads": 7
+        "downloads": 8
       },
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
-        "downloads": 7
+        "downloads": 8
       },
       {
         "name": "source.tar.gz",
-        "downloads": 5
+        "downloads": 6
       }
     ]
   },
@@ -542,31 +542,31 @@
     "assets": [
       {
         "name": "s4n-aarch64-apple-darwin.tar.xz",
-        "downloads": 5
+        "downloads": 6
       },
       {
         "name": "s4n-aarch64-unknown-linux-gnu.tar.xz",
-        "downloads": 5
+        "downloads": 6
       },
       {
         "name": "s4n-x86_64-apple-darwin.tar.xz",
-        "downloads": 5
+        "downloads": 6
       },
       {
         "name": "s4n-x86_64-pc-windows-msvc.msi",
-        "downloads": 6
+        "downloads": 7
       },
       {
         "name": "s4n-x86_64-pc-windows-msvc.zip",
-        "downloads": 8
+        "downloads": 9
       },
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
-        "downloads": 6
+        "downloads": 7
       },
       {
         "name": "source.tar.gz",
-        "downloads": 5
+        "downloads": 6
       }
     ]
   },
@@ -575,31 +575,31 @@
     "assets": [
       {
         "name": "s4n-aarch64-apple-darwin.tar.xz",
-        "downloads": 6
-      },
-      {
-        "name": "s4n-aarch64-unknown-linux-gnu.tar.xz",
-        "downloads": 6
-      },
-      {
-        "name": "s4n-x86_64-apple-darwin.tar.xz",
-        "downloads": 6
-      },
-      {
-        "name": "s4n-x86_64-pc-windows-msvc.msi",
-        "downloads": 6
-      },
-      {
-        "name": "s4n-x86_64-pc-windows-msvc.zip",
         "downloads": 7
       },
       {
-        "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
+        "name": "s4n-aarch64-unknown-linux-gnu.tar.xz",
+        "downloads": 7
+      },
+      {
+        "name": "s4n-x86_64-apple-darwin.tar.xz",
+        "downloads": 7
+      },
+      {
+        "name": "s4n-x86_64-pc-windows-msvc.msi",
+        "downloads": 7
+      },
+      {
+        "name": "s4n-x86_64-pc-windows-msvc.zip",
         "downloads": 8
       },
       {
+        "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
+        "downloads": 9
+      },
+      {
         "name": "source.tar.gz",
-        "downloads": 6
+        "downloads": 7
       }
     ]
   },
@@ -608,31 +608,31 @@
     "assets": [
       {
         "name": "s4n-aarch64-apple-darwin.tar.xz",
-        "downloads": 9
+        "downloads": 10
       },
       {
         "name": "s4n-aarch64-unknown-linux-gnu.tar.xz",
-        "downloads": 7
+        "downloads": 8
       },
       {
         "name": "s4n-x86_64-apple-darwin.tar.xz",
-        "downloads": 7
+        "downloads": 8
       },
       {
         "name": "s4n-x86_64-pc-windows-msvc.msi",
-        "downloads": 8
-      },
-      {
-        "name": "s4n-x86_64-pc-windows-msvc.zip",
         "downloads": 9
       },
       {
+        "name": "s4n-x86_64-pc-windows-msvc.zip",
+        "downloads": 10
+      },
+      {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
-        "downloads": 11
+        "downloads": 12
       },
       {
         "name": "source.tar.gz",
-        "downloads": 8
+        "downloads": 9
       }
     ]
   },
@@ -641,31 +641,31 @@
     "assets": [
       {
         "name": "s4n-aarch64-apple-darwin.tar.xz",
-        "downloads": 7
+        "downloads": 8
       },
       {
         "name": "s4n-aarch64-unknown-linux-gnu.tar.xz",
-        "downloads": 6
+        "downloads": 7
       },
       {
         "name": "s4n-x86_64-apple-darwin.tar.xz",
-        "downloads": 6
+        "downloads": 7
       },
       {
         "name": "s4n-x86_64-pc-windows-msvc.msi",
-        "downloads": 6
+        "downloads": 7
       },
       {
         "name": "s4n-x86_64-pc-windows-msvc.zip",
-        "downloads": 7
+        "downloads": 8
       },
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
-        "downloads": 7
+        "downloads": 8
       },
       {
         "name": "source.tar.gz",
-        "downloads": 6
+        "downloads": 7
       }
     ]
   },
@@ -674,31 +674,31 @@
     "assets": [
       {
         "name": "s4n-aarch64-apple-darwin.tar.xz",
-        "downloads": 9
+        "downloads": 10
       },
       {
         "name": "s4n-aarch64-unknown-linux-gnu.tar.xz",
-        "downloads": 7
+        "downloads": 8
       },
       {
         "name": "s4n-x86_64-apple-darwin.tar.xz",
-        "downloads": 7
+        "downloads": 8
       },
       {
         "name": "s4n-x86_64-pc-windows-msvc.msi",
-        "downloads": 7
+        "downloads": 8
       },
       {
         "name": "s4n-x86_64-pc-windows-msvc.zip",
-        "downloads": 13
+        "downloads": 14
       },
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
-        "downloads": 26
+        "downloads": 27
       },
       {
         "name": "source.tar.gz",
-        "downloads": 7
+        "downloads": 8
       }
     ]
   }
