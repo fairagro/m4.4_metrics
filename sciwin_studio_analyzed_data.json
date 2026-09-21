@@ -1,17 +1,17 @@
 {
   "versions": {
-    "v1.0.1": 63,
-    "v1.0.0": 43,
-    "v1.0.0-beta.5": 42,
-    "v1.0.0-beta.4": 45,
-    "v1.0.0-beta.3": 32,
-    "v1.0.0-beta.1": 33
+    "v1.0.1": 71,
+    "v1.0.0": 51,
+    "v1.0.0-beta.5": 50,
+    "v1.0.0-beta.4": 53,
+    "v1.0.0-beta.3": 38,
+    "v1.0.0-beta.1": 39
   },
   "platforms": {
-    "MacOS (ARM64)": 33,
-    "Linux (x64)": 68,
-    "Windows (x64)": 61,
-    "MacOS (x64)": 32,
-    "Linux (ARM64)": 5
+    "MacOS (ARM64)": 39,
+    "Linux (x64)": 79,
+    "Windows (x64)": 70,
+    "MacOS (x64)": 38,
+    "Linux (ARM64)": 6
   }
 }
