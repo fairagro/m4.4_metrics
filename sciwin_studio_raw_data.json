@@ -4,35 +4,35 @@
     "assets": [
       {
         "name": "SciWIn-Studio_1.0.1_aarch64.app.tar.gz",
-        "downloads": 6
-      },
-      {
-        "name": "SciWIn-Studio_1.0.1_aarch64.dmg",
-        "downloads": 8
-      },
-      {
-        "name": "SciWIn-Studio_1.0.1_amd64.AppImage",
         "downloads": 7
       },
       {
+        "name": "SciWIn-Studio_1.0.1_aarch64.dmg",
+        "downloads": 9
+      },
+      {
+        "name": "SciWIn-Studio_1.0.1_amd64.AppImage",
+        "downloads": 8
+      },
+      {
         "name": "SciWIn-Studio_1.0.1_amd64.deb",
-        "downloads": 15
+        "downloads": 16
       },
       {
         "name": "SciWIn-Studio_1.0.1_x64-setup.exe",
-        "downloads": 13
+        "downloads": 14
       },
       {
         "name": "SciWIn-Studio_1.0.1_x64.app.tar.gz",
-        "downloads": 6
+        "downloads": 7
       },
       {
         "name": "SciWIn-Studio_1.0.1_x64.dmg",
-        "downloads": 8
+        "downloads": 9
       },
       {
         "name": "SciWIn-Studio_1.0.1_x64_en-US.msi",
-        "downloads": 8
+        "downloads": 9
       }
     ]
   },
@@ -41,35 +41,35 @@
     "assets": [
       {
         "name": "SciWIn-Studio_1.0.0_aarch64.app.tar.gz",
-        "downloads": 6
-      },
-      {
-        "name": "SciWIn-Studio_1.0.0_aarch64.dmg",
         "downloads": 7
       },
       {
-        "name": "SciWIn-Studio_1.0.0_amd64.AppImage",
-        "downloads": 6
-      },
-      {
-        "name": "SciWIn-Studio_1.0.0_amd64.deb",
+        "name": "SciWIn-Studio_1.0.0_aarch64.dmg",
         "downloads": 8
       },
       {
+        "name": "SciWIn-Studio_1.0.0_amd64.AppImage",
+        "downloads": 7
+      },
+      {
+        "name": "SciWIn-Studio_1.0.0_amd64.deb",
+        "downloads": 9
+      },
+      {
         "name": "SciWIn-Studio_1.0.0_x64-setup.exe",
-        "downloads": 6
+        "downloads": 7
       },
       {
         "name": "SciWIn-Studio_1.0.0_x64.app.tar.gz",
-        "downloads": 6
+        "downloads": 7
       },
       {
         "name": "SciWIn-Studio_1.0.0_x64.dmg",
-        "downloads": 6
+        "downloads": 7
       },
       {
         "name": "SciWIn-Studio_1.0.0_x64_en-US.msi",
-        "downloads": 6
+        "downloads": 7
       }
     ]
   },
@@ -78,35 +78,35 @@
     "assets": [
       {
         "name": "SciWIn-Studio_1.0.0-5_x64-setup.exe",
-        "downloads": 8
+        "downloads": 9
       },
       {
         "name": "SciWIn-Studio_1.0.0-5_x64_en-US.msi",
-        "downloads": 6
+        "downloads": 7
       },
       {
         "name": "SciWIn-Studio_1.0.0-beta.5_aarch64.app.tar.gz",
-        "downloads": 6
+        "downloads": 7
       },
       {
         "name": "SciWIn-Studio_1.0.0-beta.5_aarch64.dmg",
-        "downloads": 6
+        "downloads": 7
       },
       {
         "name": "SciWIn-Studio_1.0.0-beta.5_amd64.AppImage",
-        "downloads": 6
+        "downloads": 7
       },
       {
         "name": "SciWIn-Studio_1.0.0-beta.5_amd64.deb",
-        "downloads": 6
+        "downloads": 7
       },
       {
         "name": "SciWIn-Studio_1.0.0-beta.5_x64.app.tar.gz",
-        "downloads": 6
+        "downloads": 7
       },
       {
         "name": "SciWIn-Studio_1.0.0-beta.5_x64.dmg",
-        "downloads": 6
+        "downloads": 7
       }
     ]
   },
@@ -115,35 +115,35 @@
     "assets": [
       {
         "name": "SciWIn-Studio_1.0.0-4_x64-setup.exe",
-        "downloads": 8
+        "downloads": 9
       },
       {
         "name": "SciWIn-Studio_1.0.0-4_x64_en-US.msi",
-        "downloads": 7
+        "downloads": 8
       },
       {
         "name": "SciWIn-Studio_1.0.0-beta.4_aarch64.app.tar.gz",
-        "downloads": 7
+        "downloads": 8
       },
       {
         "name": "SciWIn-Studio_1.0.0-beta.4_aarch64.dmg",
-        "downloads": 6
-      },
-      {
-        "name": "SciWIn-Studio_1.0.0-beta.4_amd64.AppImage",
-        "downloads": 6
-      },
-      {
-        "name": "SciWIn-Studio_1.0.0-beta.4_amd64.deb",
-        "downloads": 6
-      },
-      {
-        "name": "SciWIn-Studio_1.0.0-beta.4_x64.app.tar.gz",
         "downloads": 7
       },
       {
+        "name": "SciWIn-Studio_1.0.0-beta.4_amd64.AppImage",
+        "downloads": 7
+      },
+      {
+        "name": "SciWIn-Studio_1.0.0-beta.4_amd64.deb",
+        "downloads": 7
+      },
+      {
+        "name": "SciWIn-Studio_1.0.0-beta.4_x64.app.tar.gz",
+        "downloads": 8
+      },
+      {
         "name": "SciWIn-Studio_1.0.0-beta.4_x64.dmg",
-        "downloads": 6
+        "downloads": 7
       }
     ]
   },
@@ -152,27 +152,27 @@
     "assets": [
       {
         "name": "SciWIn-Studio_1.0.0-beta.3_aarch64.dmg",
-        "downloads": 6
+        "downloads": 7
       },
       {
         "name": "SciWIn-Studio_1.0.0-beta.3_amd64.AppImage",
-        "downloads": 6
+        "downloads": 7
       },
       {
         "name": "SciWIn-Studio_1.0.0-beta.3_amd64.deb",
-        "downloads": 6
+        "downloads": 7
       },
       {
         "name": "SciWIn-Studio_1.0.0-beta.3_x64.dmg",
-        "downloads": 6
+        "downloads": 7
       },
       {
         "name": "SciWIn-Studio_aarch64.app.tar.gz",
-        "downloads": 6
+        "downloads": 7
       },
       {
         "name": "SciWIn-Studio_x64.app.tar.gz",
-        "downloads": 8
+        "downloads": 9
       }
     ]
   },
@@ -181,27 +181,27 @@
     "assets": [
       {
         "name": "sciwin_studio-aarch64-apple-darwin.tar.xz",
-        "downloads": 6
-      },
-      {
-        "name": "sciwin_studio-aarch64-unknown-linux-gnu.tar.xz",
-        "downloads": 6
-      },
-      {
-        "name": "sciwin_studio-x86_64-apple-darwin.tar.xz",
-        "downloads": 6
-      },
-      {
-        "name": "sciwin_studio-x86_64-pc-windows-msvc.zip",
-        "downloads": 8
-      },
-      {
-        "name": "sciwin_studio-x86_64-unknown-linux-gnu.tar.xz",
         "downloads": 7
       },
       {
+        "name": "sciwin_studio-aarch64-unknown-linux-gnu.tar.xz",
+        "downloads": 7
+      },
+      {
+        "name": "sciwin_studio-x86_64-apple-darwin.tar.xz",
+        "downloads": 7
+      },
+      {
+        "name": "sciwin_studio-x86_64-pc-windows-msvc.zip",
+        "downloads": 9
+      },
+      {
+        "name": "sciwin_studio-x86_64-unknown-linux-gnu.tar.xz",
+        "downloads": 8
+      },
+      {
         "name": "source.tar.gz",
-        "downloads": 6
+        "downloads": 7
       }
     ]
   }
