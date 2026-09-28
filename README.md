@@ -8,7 +8,7 @@ The Metrics shown below have been calculated using the GitHub API for each of th
 SciWIn-Client helps users creating **Computational Workflows** in CWL. Detailed information about SciWIn-Client can be found in the [GitHub Repository](https://github.com/fairagro/sciwin).
 
 ### Downloads by Version
-SciWIn-Client currently has about 1964 overall downloads across all versions and operating systems. The latest version v2.0.1 currently has 73 downloads.
+SciWIn-Client currently has about 1965 overall downloads across all versions and operating systems. The latest version v2.0.1 currently has 74 downloads.
 
 
 ![downloads by version](sciwin_release.png)
@@ -16,7 +16,7 @@ SciWIn-Client currently has about 1964 overall downloads across all versions and
 
 | Version | Downloads |
 |---------|-----------|
-| v2.0.1 | 73|
+| v2.0.1 | 74|
 | v2.0.0 | 53|
 | v2.0.0-beta.5 | 48|
 | v2.0.0-beta.4 | 66|
@@ -42,7 +42,7 @@ SciWIn-Client currently has about 1964 overall downloads across all versions and
 
 
 ### Downloads by Operating System
-There are 669 downloads of the Linux build, 465 downloads of the Windows build and 565 downloads of the macOS build.
+There are 669 downloads of the Linux build, 465 downloads of the Windows build and 566 downloads of the macOS build.
 
 
 ![downloads by platform](sciwin_platform.png)
@@ -50,7 +50,7 @@ There are 669 downloads of the Linux build, 465 downloads of the Windows build a
 
 | Platform | Downloads |
 |---------|-----------|
-| MacOS (ARM64) | 291|
+| MacOS (ARM64) | 292|
 | Linux (ARM64) | 272|
 | MacOS (x64) | 274|
 | Windows (x64) | 465|
@@ -98,7 +98,7 @@ There are 109 downloads of the Linux build, 88 downloads of the Windows build an
 
 
 ## Historical Download Chart
-The historical download chart below shows how the 2354 combined downloads across all tracked projects progressed over time, using the commited data of this repository.
+The historical download chart below shows how the 2355 combined downloads across all tracked projects progressed over time, using the commited data of this repository.
 
 
 ![downloads by date](history.png)
