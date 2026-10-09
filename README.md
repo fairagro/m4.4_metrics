@@ -8,7 +8,7 @@ The Metrics shown below have been calculated using the GitHub API for each of th
 SciWIn-Client helps users creating **Computational Workflows** in CWL. Detailed information about SciWIn-Client can be found in the [GitHub Repository](https://github.com/fairagro/sciwin).
 
 ### Downloads by Version
-SciWIn-Client currently has about 1965 overall downloads across all versions and operating systems. The latest version v2.0.1 currently has 74 downloads.
+SciWIn-Client currently has about 1968 overall downloads across all versions and operating systems. The latest version v2.0.1 currently has 74 downloads.
 
 
 ![downloads by version](sciwin_release.png)
@@ -28,11 +28,11 @@ SciWIn-Client currently has about 1965 overall downloads across all versions and
 | v1.2.0 | 105|
 | v1.1.0 | 107|
 | v1.0.0 | 154|
-| v0.8.0 | 97|
+| v0.8.0 | 98|
 | v0.7.0 | 85|
 | v0.6.1 | 92|
 | v0.6.0 | 77|
-| v0.5.2 | 100|
+| v0.5.2 | 102|
 | v0.5.1 | 90|
 | v0.5.0 | 89|
 | v0.4.0 | 94|
@@ -42,7 +42,7 @@ SciWIn-Client currently has about 1965 overall downloads across all versions and
 
 
 ### Downloads by Operating System
-There are 669 downloads of the Linux build, 465 downloads of the Windows build and 566 downloads of the macOS build.
+There are 670 downloads of the Linux build, 466 downloads of the Windows build and 567 downloads of the macOS build.
 
 
 ![downloads by platform](sciwin_platform.png)
@@ -52,9 +52,9 @@ There are 669 downloads of the Linux build, 465 downloads of the Windows build a
 |---------|-----------|
 | MacOS (ARM64) | 292|
 | Linux (ARM64) | 272|
-| MacOS (x64) | 274|
-| Windows (x64) | 465|
-| Linux (x64) | 397|
+| MacOS (x64) | 275|
+| Windows (x64) | 466|
+| Linux (x64) | 398|
 
 
 
@@ -98,7 +98,7 @@ There are 109 downloads of the Linux build, 88 downloads of the Windows build an
 
 
 ## Historical Download Chart
-The historical download chart below shows how the 2355 combined downloads across all tracked projects progressed over time, using the commited data of this repository.
+The historical download chart below shows how the 2358 combined downloads across all tracked projects progressed over time, using the commited data of this repository.
 
 
 ![downloads by date](history.png)
