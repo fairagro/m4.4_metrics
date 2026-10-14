@@ -8,7 +8,7 @@ The Metrics shown below have been calculated using the GitHub API for each of th
 SciWIn-Client helps users creating **Computational Workflows** in CWL. Detailed information about SciWIn-Client can be found in the [GitHub Repository](https://github.com/fairagro/sciwin).
 
 ### Downloads by Version
-SciWIn-Client currently has about 1984 overall downloads across all versions and operating systems. The latest version v2.0.1 currently has 82 downloads.
+SciWIn-Client currently has about 1986 overall downloads across all versions and operating systems. The latest version v2.0.1 currently has 83 downloads.
 
 
 ![downloads by version](sciwin_release.png)
@@ -16,8 +16,8 @@ SciWIn-Client currently has about 1984 overall downloads across all versions and
 
 | Version | Downloads |
 |---------|-----------|
-| v2.0.1 | 82|
-| v2.0.0 | 55|
+| v2.0.1 | 83|
+| v2.0.0 | 56|
 | v2.0.0-beta.5 | 49|
 | v2.0.0-beta.4 | 66|
 | v2.0.0-beta.3 | 62|
@@ -42,7 +42,7 @@ SciWIn-Client currently has about 1984 overall downloads across all versions and
 
 
 ### Downloads by Operating System
-There are 676 downloads of the Linux build, 469 downloads of the Windows build and 571 downloads of the macOS build.
+There are 677 downloads of the Linux build, 469 downloads of the Windows build and 572 downloads of the macOS build.
 
 
 ![downloads by platform](sciwin_platform.png)
@@ -52,9 +52,9 @@ There are 676 downloads of the Linux build, 469 downloads of the Windows build a
 |---------|-----------|
 | MacOS (ARM64) | 294|
 | Linux (ARM64) | 274|
-| MacOS (x64) | 277|
+| MacOS (x64) | 278|
 | Windows (x64) | 469|
-| Linux (x64) | 402|
+| Linux (x64) | 403|
 
 
 
@@ -64,7 +64,7 @@ There are 676 downloads of the Linux build, 469 downloads of the Windows build a
 SciWIn-Studio is the desktop application for SciWIn, available for Windows, macOS and Linux. Detailed information about SciWIn-Studio can be found in the [GitHub Repository](https://github.com/fairagro/sciwin_studio).
 
 ### Downloads by Version
-SciWIn-Studio currently has about 390 overall downloads across all versions and operating systems. The latest version v1.0.1 currently has 87 downloads.
+SciWIn-Studio currently has about 391 overall downloads across all versions and operating systems. The latest version v1.0.1 currently has 88 downloads.
 
 
 ![downloads by version](sciwin_studio_release.png)
@@ -72,7 +72,7 @@ SciWIn-Studio currently has about 390 overall downloads across all versions and 
 
 | Version | Downloads |
 |---------|-----------|
-| v1.0.1 | 87|
+| v1.0.1 | 88|
 | v1.0.0 | 67|
 | v1.0.0-beta.5 | 66|
 | v1.0.0-beta.4 | 69|
@@ -81,7 +81,7 @@ SciWIn-Studio currently has about 390 overall downloads across all versions and 
 
 
 ### Downloads by Operating System
-There are 109 downloads of the Linux build, 88 downloads of the Windows build and 101 downloads of the macOS build.
+There are 109 downloads of the Linux build, 89 downloads of the Windows build and 101 downloads of the macOS build.
 
 
 ![downloads by platform](sciwin_studio_platform.png)
@@ -91,14 +91,14 @@ There are 109 downloads of the Linux build, 88 downloads of the Windows build an
 |---------|-----------|
 | MacOS (ARM64) | 51|
 | Linux (x64) | 101|
-| Windows (x64) | 88|
+| Windows (x64) | 89|
 | MacOS (x64) | 50|
 | Linux (ARM64) | 8|
 
 
 
 ## Historical Download Chart
-The historical download chart below shows how the 2374 combined downloads across all tracked projects progressed over time, using the commited data of this repository.
+The historical download chart below shows how the 2377 combined downloads across all tracked projects progressed over time, using the commited data of this repository.
 
 
 ![downloads by date](history.png)
