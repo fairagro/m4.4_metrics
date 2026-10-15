@@ -66,7 +66,7 @@
       },
       {
         "name": "s4n-aarch64-unknown-linux-gnu.tar.xz",
-        "downloads": 8
+        "downloads": 9
       },
       {
         "name": "s4n-x86_64-apple-darwin.tar.xz",
@@ -82,7 +82,7 @@
       },
       {
         "name": "source.tar.gz",
-        "downloads": 8
+        "downloads": 9
       }
     ]
   },
