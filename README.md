@@ -8,7 +8,7 @@ The Metrics shown below have been calculated using the GitHub API for each of th
 SciWIn-Client helps users creating **Computational Workflows** in CWL. Detailed information about SciWIn-Client can be found in the [GitHub Repository](https://github.com/fairagro/sciwin).
 
 ### Downloads by Version
-SciWIn-Client currently has about 1996 overall downloads across all versions and operating systems. The latest version v2.0.1 currently has 87 downloads.
+SciWIn-Client currently has about 2003 overall downloads across all versions and operating systems. The latest version v2.0.1 currently has 91 downloads.
 
 
 ![downloads by version](sciwin_release.png)
@@ -16,9 +16,9 @@ SciWIn-Client currently has about 1996 overall downloads across all versions and
 
 | Version | Downloads |
 |---------|-----------|
-| v2.0.1 | 87|
-| v2.0.0 | 58|
-| v2.0.0-beta.5 | 53|
+| v2.0.1 | 91|
+| v2.0.0 | 59|
+| v2.0.0-beta.5 | 54|
 | v2.0.0-beta.4 | 66|
 | v2.0.0-beta.3 | 62|
 | v2.0.0-beta.2 | 60|
@@ -29,7 +29,7 @@ SciWIn-Client currently has about 1996 overall downloads across all versions and
 | v1.1.0 | 107|
 | v1.0.0 | 154|
 | v0.8.0 | 98|
-| v0.7.0 | 85|
+| v0.7.0 | 86|
 | v0.6.1 | 92|
 | v0.6.0 | 77|
 | v0.5.2 | 107|
@@ -42,7 +42,7 @@ SciWIn-Client currently has about 1996 overall downloads across all versions and
 
 
 ### Downloads by Operating System
-There are 681 downloads of the Linux build, 470 downloads of the Windows build and 575 downloads of the macOS build.
+There are 681 downloads of the Linux build, 474 downloads of the Windows build and 578 downloads of the macOS build.
 
 
 ![downloads by platform](sciwin_platform.png)
@@ -50,10 +50,10 @@ There are 681 downloads of the Linux build, 470 downloads of the Windows build a
 
 | Platform | Downloads |
 |---------|-----------|
-| MacOS (ARM64) | 296|
+| MacOS (ARM64) | 298|
 | Linux (ARM64) | 277|
-| MacOS (x64) | 279|
-| Windows (x64) | 470|
+| MacOS (x64) | 280|
+| Windows (x64) | 474|
 | Linux (x64) | 404|
 
 
@@ -98,7 +98,7 @@ There are 109 downloads of the Linux build, 89 downloads of the Windows build an
 
 
 ## Historical Download Chart
-The historical download chart below shows how the 2387 combined downloads across all tracked projects progressed over time, using the commited data of this repository.
+The historical download chart below shows how the 2394 combined downloads across all tracked projects progressed over time, using the commited data of this repository.
 
 
 ![downloads by date](history.png)
