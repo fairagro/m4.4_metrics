@@ -49,11 +49,11 @@
       },
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
-        "downloads": 15
+        "downloads": 16
       },
       {
         "name": "source.tar.gz",
-        "downloads": 10
+        "downloads": 11
       }
     ]
   },
@@ -281,7 +281,7 @@
       },
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
-        "downloads": 23
+        "downloads": 24
       },
       {
         "name": "source.tar.gz",
@@ -661,7 +661,7 @@
       },
       {
         "name": "s4n-x86_64-unknown-linux-gnu.tar.xz",
-        "downloads": 16
+        "downloads": 17
       },
       {
         "name": "source.tar.gz",
