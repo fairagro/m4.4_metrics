@@ -102,3 +102,9 @@ The historical download chart below shows how the 2844 combined downloads across
 
 
 ![downloads by date](history.png)
+
+## Acknowledgements
+ 
+This work was created as part of the NFDI consortium FAIRagro (www.fairagro.net). We gratefully acknowledge the financial support of the German Research Foundation (DFG) – project number 501899475.
+ 
+<img src="https://fairagro.net/assets/Fairagro_Logo_lb_ohLiRand_weiss.svg" alt="FAIRagro Logo" style="width:300px;" />
