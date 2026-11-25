@@ -8,7 +8,7 @@ The Metrics shown below have been calculated using the GitHub API for each of th
 SciWIn-Client helps users creating **Computational Workflows** in CWL. Detailed information about SciWIn-Client can be found in the [GitHub Repository](https://github.com/fairagro/sciwin).
 
 ### Downloads by Version
-SciWIn-Client currently has about 2360 overall downloads across all versions and operating systems. The latest version v2.0.1 currently has 119 downloads.
+SciWIn-Client currently has about 2361 overall downloads across all versions and operating systems. The latest version v2.0.1 currently has 120 downloads.
 
 
 ![downloads by version](sciwin_release.png)
@@ -16,7 +16,7 @@ SciWIn-Client currently has about 2360 overall downloads across all versions and
 
 | Version | Downloads |
 |---------|-----------|
-| v2.0.1 | 119|
+| v2.0.1 | 120|
 | v2.0.0 | 78|
 | v2.0.0-beta.5 | 67|
 | v2.0.0-beta.4 | 79|
@@ -42,7 +42,7 @@ SciWIn-Client currently has about 2360 overall downloads across all versions and
 
 
 ### Downloads by Operating System
-There are 822 downloads of the Linux build, 543 downloads of the Windows build and 676 downloads of the macOS build.
+There are 822 downloads of the Linux build, 544 downloads of the Windows build and 676 downloads of the macOS build.
 
 
 ![downloads by platform](sciwin_platform.png)
@@ -53,7 +53,7 @@ There are 822 downloads of the Linux build, 543 downloads of the Windows build a
 | MacOS (ARM64) | 347|
 | Linux (ARM64) | 329|
 | MacOS (x64) | 329|
-| Windows (x64) | 543|
+| Windows (x64) | 544|
 | Linux (x64) | 493|
 
 
@@ -98,7 +98,7 @@ There are 136 downloads of the Linux build, 108 downloads of the Windows build a
 
 
 ## Historical Download Chart
-The historical download chart below shows how the 2843 combined downloads across all tracked projects progressed over time, using the commited data of this repository.
+The historical download chart below shows how the 2844 combined downloads across all tracked projects progressed over time, using the commited data of this repository.
 
 
 ![downloads by date](history.png)
